@@ -1,0 +1,1636 @@
+{
+  "cloth": {
+    "B007I8G8A8": {
+      "gold_summs": [
+        [
+          [
+            "These swim shorts fit pretty well overall with the exception of the mesh inner lining which is tight, so they can be a bit uncomfortable if they're not adjusted accordingly.",
+            "They're priced very reasonably, the material itself is of decent quality and feels nice, plus they're good looking and stylish."
+          ],
+          [
+            "These swim shorts are styled nicely and have good quality, but they have a tight, uncomfortable liner, which may require cutting or ordering a larger size to fit better.",
+            "If cutting the liner to make them more comfortable is not a problem, these shorts are recommended."
+          ],
+          [
+            "These are very sharp looking, well fitting swim trunks.",
+            "They are very comfortable with the exception of the net liner inside that seems a bit small.",
+            "They are not the highest quality, but are definitely a good value for the price.",
+            "If you are looking for a stylish yet affordable pair of swim trunks these are definitely recommended."
+          ]
+        ]
+      ],
+      "gen_summ": [
+        [
+          "These shorts are great for the price.",
+          "They fit well, are well made, and are comfortable to wear.",
+          "The only thing that would make these shorts better is if they were made in the USA.",
+          "They tend to run a little on the small side, so be aware of that.",
+          "Overall, they are a great buy."
+        ]
+      ],
+      "rouge": [
+        {
+          "rouge1": {
+            "p": 0.36904761904761907,
+            "r": 0.3956512309882794,
+            "f": 0.3810100895339627
+          },
+          "rouge2": {
+            "p": 0.03636363636363636,
+            "r": 0.03876893087419403,
+            "f": 0.03742100578549176
+          },
+          "rougeL": {
+            "p": 0.21428571428571427,
+            "r": 0.2298944867189047,
+            "f": 0.22131331206231086
+          }
+        }
+      ],
+      "props": [
+        {
+          "len": 0.7083333134651184,
+          "rating": 0.0,
+          "rouge": [
+            0.24200643599033356,
+            0.030876057222485542,
+            0.14862371981143951
+          ],
+          "pov": [
+            0.0,
+            0.1111111119389534,
+            0.8888888955116272,
+            0.0
+          ]
+        }
+      ],
+      "pred_props": [
+        {
+          "len": -0.015705108642578125,
+          "rating": 0.049122974276542664,
+          "rouge": [
+            0.27242836356163025,
+            0.03308481723070145,
+            0.16180483996868134
+          ],
+          "pov": [
+            0.00889177992939949,
+            2.8100546842324547e-05,
+            0.9910722374916077,
+            7.784814442857169e-06
+          ]
+        }
+      ],
+      "inp_rev": [
+        [
+          [
+            "Love the shorts!",
+            "Fit beautifully and look great on my hunky hubby!",
+            "We grew up at the beach and these are definitely back flashes!!",
+            "Excellent quality, good material, made very well and am very excited!",
+            "I need to order him more!"
+          ],
+          [
+            "As other people mentioned the liner in these are super small.",
+            "I took them on vacation to Hawaii and on the second day I cut out the bottom of the liner.",
+            "The waist fits fine but the liner inside is not sized accordingly.",
+            "I just cut the liner at the bottom so I could be comfortable and all was well after that."
+          ],
+          [
+            "Great price nice style these were the best swimwear available during the winter season and compared to the others that I found online these were very sharp (style) and also the price was very decent if your son needs a pair for gym or just swimming I would recommend these to any one"
+          ],
+          [
+            "Shorts have a good look and feel.",
+            "Fit about as expected but the mesh is a little tighter than i'd like.",
+            "(6 '205lb, wear a size 34 waist and ordered the size large which is quoted to fit a 34.)",
+            "If you're on the fence, might want to go a size larger."
+          ],
+          [
+            "My wife said I had to buy a proper pair of swim trunks for an upcoming cruise.",
+            "Seems my use of cut off jeans would embarrass her on the cruise we took.",
+            "The pockets are deep enough to keep things in and the cargo pockets are good for keeping various items like sunglasses.I guess I will have to retire the cutoffs."
+          ],
+          [
+            "The shorts themselves fit well, but my husband said the inner lining was a little tight.",
+            "He ended up not wearing them because he was worried about them chaffing.",
+            "Hopefully they can be stretched or fixed, but i'm not sure."
+          ],
+          [
+            "This is a cheap product and it shows in the material and craftsmanship.",
+            "The material is rough and it has one of those annoying net liners built in.",
+            "The stitching seems poorly done and I don't thin it would have lasted long had I actually worn it out into the ocean.",
+            "I returned the item."
+          ],
+          [
+            "This was an excellent purchase - very sharp looking and seemingly well made (so far anyway) for a great price.",
+            "What garners only a 4 star is the mesh inner lining is a bit too tight and I had to cut it"
+          ]
+        ]
+      ]
+    },
+    "B006UF64CW": {
+      "gold_summs": [
+        [
+          [
+            "These sandals are beautiful, fun, festive, and come in a variety of colors.",
+            "They are light weight, comfortable sandals with great arch support, but run a little small, so buy the next size larger for a good fit."
+          ],
+          [
+            "These are very attractive, lightweight and even colorful sandals.",
+            "They are very comfortable and can be worn for long hours or everyday, if desired.",
+            "They are durable and can easily last for two seasons or more.",
+            "The sandals are available in many colors, they look fantastic and they feel comfortable on the feet.",
+            "Overall, these are highly recommended."
+          ],
+          [
+            "These are a very comfortable and cute sandal.",
+            "This thong sandal goes with a variety of outfits and the cushy sole allows for all day comfort.",
+            "However, they do run a little small, sizing up provides a better fit.",
+            "Overall, a reasonably priced shoe that will last for years to come."
+          ]
+        ]
+      ],
+      "gen_summ": [
+        [
+          "These sandals are very cute and comfortable.",
+          "They fit true to size and are very comfortable to wear.",
+          "They look great with a variety of outfits and can be dressed up or down depending on the occasion."
+        ]
+      ],
+      "rouge": [
+        {
+          "rouge1": {
+            "p": 0.48648648648648646,
+            "r": 0.3714933039156376,
+            "f": 0.4181818181818182
+          },
+          "rouge2": {
+            "p": 0.16666666666666666,
+            "r": 0.12281966176703019,
+            "f": 0.1403889785231696
+          },
+          "rougeL": {
+            "p": 0.32432432432432434,
+            "r": 0.24661044090957618,
+            "f": 0.2780435938330675
+          }
+        }
+      ],
+      "props": [
+        {
+          "len": -0.1666666716337204,
+          "rating": 0.0,
+          "rouge": [
+            0.2295728474855423,
+            0.03455905243754387,
+            0.14915812015533447
+          ],
+          "pov": [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ]
+        }
+      ],
+      "pred_props": [
+        {
+          "len": 0.17279887199401855,
+          "rating": 0.04824306070804596,
+          "rouge": [
+            0.277495801448822,
+            0.03621738404035568,
+            0.1669483631849289
+          ],
+          "pov": [
+            0.008991513401269913,
+            3.444597314228304e-05,
+            0.9909629225730896,
+            1.1124828233732842e-05
+          ]
+        }
+      ],
+      "inp_rev": [
+        [
+          [
+            "I get constant compliments on these sandals.",
+            "I order them every summer in a variety of colors.",
+            "I had heel spurs and back problems so the cushy softness of these is the only thing I can wear comfortably and the small wedge heel is perfect for my back."
+          ],
+          [
+            "These thongs are fun, festive, flexible and surprisingly comfortable.",
+            "I have very sensitive feet and I can wear these cuties all day.",
+            "The arch support is great and there is a nice give in the sole.",
+            "I love these so much I want to put a few pairs away in case they discontinue them.",
+            "They go with everything."
+          ],
+          [
+            "I have been wearing white mountain beaded sandals for a couple of years now and they are wonderful.",
+            "They are lightweight and cushion the feet when worn for long hours.",
+            "They are also beautiful and usually hold up for two or more seasons."
+          ],
+          [
+            "This was great price for this cute sandal.",
+            "Unfortunately, the toe piece was very hard and they were a little narrow... unusual since I normally wear a B width.",
+            "For the right person, they would probably be fine.",
+            "They just didn't work for me."
+          ],
+          [
+            "I love white mountain sandels.",
+            "This is my 2nd pair of these shoes.",
+            "I wore out the last pair after 2yrs.",
+            "They are very very blingy and I like that.",
+            "Would I order another pair?",
+            "You bet I would / will."
+          ],
+          [
+            "Item was too small, purchased for a friend their size 9 is smaller than the size 8 in the store.",
+            "Sent it to the wrong address, and I can not seem to find anyone that will tell me where my bill is.",
+            "I will never buy from white mountain again."
+          ],
+          [
+            "I lived in sandals that looked exactly like this but I thought they were by bjorn.",
+            "I couldn't find them anywhere, but found these (go figure).",
+            "While they aren't quite as comfy as my other ones, I think with a bit of breaking in they'll be just fine.",
+            "Lots of compliments every time I wear them."
+          ],
+          [
+            "Not only are these super comfortable (yes, even between your toes), they look great with just about anything I wear!",
+            "I have been complimented on these daily!!",
+            "I typically wear a 6 1 / 2, I ordered a 7 and they fit perfect!!",
+            "I need more of these!!",
+            "Highly recommended!!",
+            "!"
+          ]
+        ]
+      ]
+    },
+    "B005085X5Y": {
+      "gold_summs": [
+        [
+          [
+            "The hat is comfortable, stylish and easy to pack into a suitcase for travel.",
+            "It protects well from the sun, keeps the head cool, and is suitable for both boat trips and more dressy occasions.",
+            "Sizing is 'one size fits all' which seems to be good on even large heads.",
+            "The customer service was great, ensuring the product arrived on time before travelling."
+          ],
+          [
+            "This is a fashionable, functional sun hat.",
+            "It is great for use on the beach and other outdoor occasions.",
+            "It doesn't do as well on a boat where the wind is stronger.",
+            "This hat is fantastic for sun protection.",
+            "While it says one size fits all, it's more accurate to say that one size fits most."
+          ],
+          [
+            "A great, stylish sunhat that provides excellent sun protection.",
+            "This hat is stays in place making it perfect for hiking, gardening or being outdoors during windy conditions.",
+            "It is a hat that can be dressed up or rolled up for easy packing.",
+            "One size fits all option for skin protection while enjoying the outdoors."
+          ]
+        ]
+      ],
+      "gen_summ": [
+        [
+          "This hat is great for the beach or pool.",
+          "It keeps the sun out of the sun and is very comfortable to wear.",
+          "The brim is large enough to keep the sun off the face, but not too large so that it doesn't get in the way.",
+          "Overall, it's a great product and would recommend it to anyone."
+        ]
+      ],
+      "rouge": [
+        {
+          "rouge1": {
+            "p": 0.3277777777777778,
+            "r": 0.33500577753451316,
+            "f": 0.33105604026602264
+          },
+          "rouge2": {
+            "p": 0.0847457627118644,
+            "r": 0.08715692660338205,
+            "f": 0.08587272184450867
+          },
+          "rougeL": {
+            "p": 0.2222222222222222,
+            "r": 0.22687465790914063,
+            "f": 0.2243278721814872
+          }
+        }
+      ],
+      "props": [
+        {
+          "len": 7.375,
+          "rating": 0.0,
+          "rouge": [
+            0.266925185918808,
+            0.04658976197242737,
+            0.1590271294116974
+          ],
+          "pov": [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ]
+        }
+      ],
+      "pred_props": [
+        {
+          "len": 0.32506823539733887,
+          "rating": 0.03121490776538849,
+          "rouge": [
+            0.28128793835639954,
+            0.0382981151342392,
+            0.16988760232925415
+          ],
+          "pov": [
+            0.009440336376428604,
+            3.805638334597461e-05,
+            0.990509033203125,
+            1.2591021004482172e-05
+          ]
+        }
+      ],
+      "inp_rev": [
+        [
+          [
+            "I looked at a few sizing charts and they said that 'one size fits all' will fit a head with a circumference of 21 1 / 2 '- 22 1 / 4'.",
+            "My head is 21 3 / 4 'and this hat sat on the top of my ears!",
+            "I have returned it."
+          ],
+          [
+            "Loved the stitching design, got a lot of compliements on it.",
+            "The best part is you can roll it up and pack in your suitcase for travel and it unfolds beautifully.",
+            "Provides the right amount of coverage and stayed on my head in windy conditions."
+          ],
+          [
+            "I needed something for my cruise to hawaii.",
+            "I ordered this atthe last moment, but Amazon came through and I receivedit the day before I left.",
+            "I love the look, the feel, the factthat I can fold it and stick it in my suitcase and, best of all, I received compliments on it."
+          ],
+          [
+            "I spent 2 months at the beach this summer and this hat was great.",
+            "It kept my head cool even in nearly 100 degree weather and also kept my face protected.",
+            "I have a fairly large head and had no problem with the one size fits all."
+          ],
+          [
+            "I wear a hat anytime I am outside for any length of time.",
+            "This hat is cute and provides great sun protection.",
+            "I have a hat for hiking and a hat for the beach, but this is for more dressy occasions like an outdoor birthday party or a trip to butterfly world with my granddaughter."
+          ],
+          [
+            "Good quality hat, I love that I can be protected from the sun, and look good too!",
+            "I'd also like to commend customer service, which was responsive and helpful when I accidentally shipped my order to the wrong address.",
+            "I have already ordered another hat for my daughter."
+          ],
+          [
+            "I bought two of these hats to keep on our son's boat.",
+            "They are pretty stylish but most importantly does protect my hair and face from the sun.",
+            "Love the UPF protection.",
+            "The only nominally downside is it is difficult to stay on when the boat is going fast.",
+            "I think for wear at the beach or just outside it is a great purchase."
+          ],
+          [
+            "It looks good; it's comfortable; it keeps the sun off my face & neck.",
+            "I wear it while gardening or for walks.",
+            "I got it in the moss green and the color is as shown online.",
+            "I'm glad I bought it."
+          ]
+        ]
+      ]
+    }
+  },
+  "electronics": {
+    "B001TKE25E": {
+      "gold_summs": [
+        [
+          [
+            "This mount is cheap, installs easily, and works well for most applications.",
+            "It looks good, and the plastic is sturdy.",
+            "However, the included screws are of suspect quality and may need to be replaced, and the back plate doesn't fit snugly against the wall.",
+            "Overall, good for the price."
+          ],
+          [
+            "This mounting device is a better price than most.",
+            "There are some quality control issues, such as bad screws and fitment issues between the wall and the plate.",
+            "It does its job, but there are better versions, albeit at a higher price.",
+            "It is recommended if cost is more important than having the highest quality."
+          ],
+          [
+            "The product has looks and ease of installation.",
+            "It is less expensive than buying locally.",
+            "However, the screws are not of the best quality and #6-32 1 combination machine screws are recommended.",
+            "It also leaves a gap between the wall and the plate.",
+            "Nevertheless, the purchase is recommended."
+          ]
+        ]
+      ],
+      "gen_summ": [
+        [
+          "This product is well made and easy to install.",
+          "It is a bit of a hassle to install, but it is well worth it.",
+          "The only thing that would make it better is if the screws were a little longer, but that's not a big deal.",
+          "Overall, it's a great product, especially for the price."
+        ]
+      ],
+      "rouge": [
+        {
+          "rouge1": {
+            "p": 0.27485380116959063,
+            "r": 0.30493506493506495,
+            "f": 0.2889292641761341
+          },
+          "rouge2": {
+            "p": 0.041666666666666664,
+            "r": 0.04678445452254976,
+            "f": 0.04405039405039404
+          },
+          "rougeL": {
+            "p": 0.19883040935672514,
+            "r": 0.2228447742733457,
+            "f": 0.2100400114198386
+          }
+        }
+      ],
+      "props": [
+        {
+          "len": 3.8333332538604736,
+          "rating": 0.0,
+          "rouge": [
+            0.27882373332977295,
+            0.04818969964981079,
+            0.17571516335010529
+          ],
+          "pov": [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ]
+        }
+      ],
+      "pred_props": [
+        {
+          "len": 2.517096757888794,
+          "rating": 0.06453826278448105,
+          "rouge": [
+            0.25979679822921753,
+            0.03006155416369438,
+            0.1633170247077942
+          ],
+          "pov": [
+            0.01948901079595089,
+            4.836642983718775e-05,
+            0.9804394841194153,
+            2.3109114408725873e-05
+          ]
+        }
+      ],
+      "inp_rev": [
+        [
+          [
+            "Good quality, everything that you need is included (except for the gang box of course).",
+            "I'm using it with 16 AWG wires (they say they are 14 but I know better than that).",
+            "It should fit 14 and maybe even 12 awg.",
+            "I'm not using banana jacks."
+          ],
+          [
+            "Cant give it 5 stars because the mounting screws that come with it are poor quality and will strip easily.",
+            "Do yourself a favor, head to the hardware store and get the # 6 - 32 1 'combination machine screws and throw out the ones that come with this product.",
+            "The white trim screws are ok, but not great."
+          ],
+          [
+            "Cost much more from local retailers plus is a better product.",
+            "Some of the newer designs suck.",
+            "Plastic inserts don't try it if it says easier dont't buy it.",
+            "This product works on old school.",
+            "Some times that's the best way.",
+            "Take a little longer to instal but no going back for loss wires"
+          ],
+          [
+            "This is ok product.",
+            "Looks good and easy to install.cons: cover is not a standard size and you probably wont be able to replace it.",
+            "In addition it does not flush everything completely (not deep enough) and there is a small gap left between the wall and the plate."
+          ],
+          [
+            "All the screw heads were painted shut.",
+            "I had to dig them all out before I could screw them in.",
+            "The rest of the plate is ok but I didn't enjoy spending a bunch of time digging the slots out of the screws.",
+            "I'd recommend going with something else."
+          ],
+          [
+            "Bought five for my 5.1. installed into the boxes in the wall well.",
+            "4 stars for having a slight gap between the wall and the plate after install.",
+            "I only notice it at slight angels.",
+            "Jacks are made well wires attached well."
+          ],
+          [
+            "Easy installation and looking nice.",
+            "Much cheaper than brand product at local store.",
+            "However, it doesn't look as nice as the brand ones either.",
+            "I suspect the connectors are made of poorly gold-plated bruss or even other metal.",
+            "But for my purpose and for the price, it is ok."
+          ],
+          [
+            "Came individually packaged, with mounting screws.",
+            "The backing plate is plastic, but sturdy enough.",
+            "Plastic is great for me as I live near the ocean and corrosion can happen.",
+            "Great quality.",
+            "Great price.",
+            "Much cheaper than local home improvement stores."
+          ]
+        ]
+      ]
+    },
+    "B004IV8Y50": {
+      "gold_summs": [
+        [
+          [
+            "This iPearl laptop cover works well for Macbooks.",
+            "It is easy to use on laptops and comes in a range of colors.",
+            "This laptop cover is thick and offers good protection without adding weight.",
+            "The fit can be a little loose on some laptops making it unhelpful as a laptop protector.",
+            "Overall, it's recommended, but with caution due to fit."
+          ],
+          [
+            "This MacBook Air case looks great and fits the device well.",
+            "It's very easy to install and has a functional keyboard protector.",
+            "The retractable feet are useful for angling the device.",
+            "Overall, the case fits most devices well and it's a high quality, sturdy case.",
+            "This durable case is recommended."
+          ],
+          [
+            "The Apple iPearl MacBook comes in vibrant colors and is easy is to put on.",
+            "While the cover offers durable protection for the MacBook, the retractable tilt stands offer protection for the wrists.",
+            "The keyboard cover can take some effort to fit properly, and adjustment to its feel may take time.",
+            "However, free and fast shipping make up for this one potential issue."
+          ]
+        ]
+      ],
+      "gen_summ": [
+        [
+          "This case fits the MacBook Pro 13 \"perfectly.",
+          "It looks great and protects the computer well.",
+          "The keyboard cover is a little hard to get on and off, but that's not a big deal.",
+          "Overall, it's a great product, especially for the price."
+        ]
+      ],
+      "rouge": [
+        {
+          "rouge1": {
+            "p": 0.45925925925925926,
+            "r": 0.3587208177372112,
+            "f": 0.4020786655812267
+          },
+          "rouge2": {
+            "p": 0.10606060606060606,
+            "r": 0.08294328484081805,
+            "f": 0.09290352150332287
+          },
+          "rougeL": {
+            "p": 0.2814814814814815,
+            "r": 0.21898289931076817,
+            "f": 0.2458821721286871
+          }
+        }
+      ],
+      "props": [
+        {
+          "len": 12.041666984558105,
+          "rating": 0.0,
+          "rouge": [
+            0.27553683519363403,
+            0.033895932137966156,
+            0.16563290357589722
+          ],
+          "pov": [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ]
+        }
+      ],
+      "pred_props": [
+        {
+          "len": 0.7893199920654297,
+          "rating": 0.04635638743638992,
+          "rouge": [
+            0.28375643491744995,
+            0.037392619997262955,
+            0.17068494856357574
+          ],
+          "pov": [
+            0.010440508835017681,
+            4.025711677968502e-05,
+            0.989504337310791,
+            1.4916528925823513e-05
+          ]
+        }
+      ],
+      "inp_rev": [
+        [
+          [
+            "I love this item.",
+            "Im happy that it came with a color keyboard protector.",
+            "It was super easy to put on and the color is great.",
+            "I love that you can see the Apple logo through it.",
+            "Overall its a great product I totally recommend it."
+          ],
+          [
+            "The cover is very nice, just it does not fit snugly.",
+            "There is extra room and unless I am very carefully about inserting the MacBook air into the cover, the cover shifts around.If <UNK> earl provided a better fit, I would have rated it 4 or 5 stars."
+          ],
+          [
+            "My case arrived before the estimated delivery date and I love it so far.",
+            "It was very easy to put on my MacBook air.",
+            "I love the retractable feet; and the color purple that came matches the picture perfectly.",
+            "Would definitely repurchase something else from this brand."
+          ],
+          [
+            "I ordered two of these covers after careful research and visiting retail stores.",
+            "These covers were free shipping and were a snap to install.",
+            "There are no issues whatsoever with them, so order them with confidence.",
+            "Ignore the extra picky shoppers' reviews on here.",
+            "Hope this helps."
+          ],
+          [
+            "I do not recommend this item.",
+            "It's a pretty color, and it stayed on for a while.",
+            "But the cover pops off the top of the clamshell too easily, and now it is more off than on.",
+            "I am now shopping for a case from another maker."
+          ],
+          [
+            "I absolutely love the case!",
+            "It fits my laptop perfectly!",
+            "I received many compliments on this case with the keyboard cover that came with it!",
+            "I love the keyboard cover as well.",
+            "The cover is nice and thick.",
+            "I love it!",
+            "I would recommend these products to anyone that wants to protect their MacBook in style.",
+            "Nice sturdy case."
+          ],
+          [
+            "Love the the clip cover.",
+            "I was pleased with the tilts stands in back.",
+            "Places computer in perfect angle to protect my wrists.",
+            "The keyboard cover is nice but taking a little used to the buttons having a different feel.",
+            "Over all very pleased with products.",
+            "And products arriving in a very timely fashion as stated."
+          ],
+          [
+            "The <UNK> earl cover fits like a glove and gives me just the amount of protection i'm looking for without bulk.",
+            "It's priced well and showed up on time, as promised.",
+            "Great product and customer service!",
+            "What more could I ask?"
+          ]
+        ]
+      ]
+    },
+    "B005MZO5TA": {
+      "gold_summs": [
+        [
+          [
+            "Exactly as described.",
+            "Looks good with a solid build and the unit is quite sturdy.",
+            "This unit locks in very tightly and also feels professional.",
+            "It is a great purchase for the money.",
+            "I'd recommend this handle highly."
+          ],
+          [
+            "This stick is sturdy, with a weight and heft that gives lightweight devices stability, and a solid build quality.",
+            "It is low cost but outperforms more expensive models.",
+            "It works well with video cameras, cell phones and DSLRs.",
+            "It is highly recommended for often video recording."
+          ],
+          [
+            "A great all-around, sturdy stick for cameras.",
+            "It is very versatile and quite ideal for lightweight cameras especially, and this stick is highly recommended for its great price-point and overall versatility."
+          ]
+        ]
+      ],
+      "gen_summ": [
+        [
+          "This is a great product for the price.",
+          "It is well built and easy to use.",
+          "It can be a little tricky to get the camera on and off, but once you get it on, it's well worth it.",
+          "It would be nice if it had a little more weight to it, but that's to be expected."
+        ]
+      ],
+      "rouge": [
+        {
+          "rouge1": {
+            "p": 0.22598870056497175,
+            "r": 0.33686361947231513,
+            "f": 0.26927930592526866
+          },
+          "rouge2": {
+            "p": 0.040229885057471264,
+            "r": 0.06332846003898636,
+            "f": 0.04906508450197771
+          },
+          "rougeL": {
+            "p": 0.13559322033898305,
+            "r": 0.20585453194148848,
+            "f": 0.1627329192546584
+          }
+        }
+      ],
+      "props": [
+        {
+          "len": -13.416666984558105,
+          "rating": 0.0,
+          "rouge": [
+            0.272020161151886,
+            0.04687045142054558,
+            0.17446014285087585
+          ],
+          "pov": [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ]
+        }
+      ],
+      "pred_props": [
+        {
+          "len": 2.9706649780273438,
+          "rating": 0.03134077787399292,
+          "rouge": [
+            0.2742290794849396,
+            0.04058896377682686,
+            0.18349498510360718
+          ],
+          "pov": [
+            0.021647851914167404,
+            9.4329341663979e-05,
+            0.9781928062438965,
+            6.498586299130693e-05
+          ]
+        }
+      ],
+      "inp_rev": [
+        [
+          [
+            "Exactly as described, at 8 + oz.",
+            "Of solid metal this grip offers a stable way to hold your lightweight digital camera, without putting you fingers in front of the lens or flash.",
+            "I find it works well with the Kodak playsmart video camera and the Nikon S9100 point and shoot.opteka hg-5 pistol handgrip stabilizer for point-n-shoot, DSLR and video cameras"
+          ],
+          [
+            "Probably the best and the least expensive stick i've ever owned and I love it.I use this with my GoPro HD hero2.",
+            "It's a bit heavy but the construct is very good.",
+            "You can use this as a weapon too.",
+            "Lol"
+          ],
+          [
+            "Bought this as part of the stabilizer rig then realized that this was easier to use alone than the rig itself.",
+            "I am going to use it with a camera with an active stabilizer.",
+            "Videos looked good.",
+            "Will update after I use it this weekend.",
+            "It looks good and is built solid."
+          ],
+          [
+            "I use this with a dual-camera mount and I like this because of the heft / weight and it stays pretty secure whether I use it with the mount or on my flip video camera or snapshot.",
+            "I'd recommend this handle highly."
+          ],
+          [
+            "I was planning to use this with my D7000 + battery grip + 80-200 f / 2.8 lens, but when I received it, I changed my mind.It just does not look like it can handle that load.",
+            "I put it on my Panasonic gf2, and it performs very nicely.Would highly recommend it for lighter cameras."
+          ],
+          [
+            "The unit is quite sturdy.",
+            "I bought it to replace the pistol grip unit also featured because the pistol grip locking mechanism did seem to want to lock tight.",
+            "This unit locks in very tightly and also feels professional.",
+            "A great purchase for the money."
+          ],
+          [
+            "This is the 2nd stabilizer that i've purchased... one for my Sony A99 and one for my Sony a33.",
+            "I can't speak highly enough about this handy little item!",
+            "It's perfectly sized and the ergonomics is ideal!",
+            "Two thumbs up!",
+            "!"
+          ],
+          [
+            "A low cost device that I bought and paired with a cell phone reduce jittery videos.",
+            "Works pretty well for handheld use even when walking.",
+            "The thread seemed a little recessed at first until I moved the washer flat.",
+            "I recommend this product for anyone who records videos often for friends, and family especially with your cell phone."
+          ]
+        ]
+      ]
+    }
+  },
+  "health_personal_care": {
+    "B00028QA72": {
+      "gold_summs": [
+        [
+          [
+            "This product is good alternative to deodorants.",
+            "Crystal lasts a long time.",
+            "The major drawback is that it is somewhat easy to drop the product and it shatters very easily.",
+            "Overall the product withstood the test of time"
+          ],
+          [
+            "Economically priced with long lasting results and truth that a little goes a long way, this crystal rock deodorant is a great deal.",
+            "Users are pleased with the crystals ability to eliminate body odor even for heavy perspirers.",
+            "Recommended for those who want to get away from the traditional stick, though be careful for if dropped it will shatter so also may be best purchased in-store versus ordering online."
+          ],
+          [
+            "This crystal is a very good alternative to traditional deodorants.",
+            "It does not have a scent and does not stop sweating, but it is not irritating to skin and can eliminate body odor entirely after using for a few days.",
+            "It can become very slippery when wetting to use and can break if dropped, but will last a very long time if handled carefully.",
+            "This product is recommended."
+          ]
+        ]
+      ],
+      "gen_summ": [
+        [
+          "This is a great deodorant for sensitive skin.",
+          "It does not irritate sensitive skin and lasts a long time.",
+          "It doesn't leave a sticky residue on the skin like other deodorants do.",
+          "The only downside is that it is a bit of a pain to apply, but that's to be expected."
+        ]
+      ],
+      "rouge": [
+        {
+          "rouge1": {
+            "p": 0.3773584905660377,
+            "r": 0.3612560813799204,
+            "f": 0.36166051243656566
+          },
+          "rouge2": {
+            "p": 0.10897435897435898,
+            "r": 0.10834780270211808,
+            "f": 0.10629067301542217
+          },
+          "rougeL": {
+            "p": 0.2327044025157233,
+            "r": 0.230421642341147,
+            "f": 0.22666321114214683
+          }
+        }
+      ],
+      "props": [
+        {
+          "len": 4.958333492279053,
+          "rating": 0.0,
+          "rouge": [
+            0.2544375956058502,
+            0.03341491520404816,
+            0.1464674174785614
+          ],
+          "pov": [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ]
+        }
+      ],
+      "pred_props": [
+        {
+          "len": 0.7162671089172363,
+          "rating": 0.0872468575835228,
+          "rouge": [
+            0.2738543450832367,
+            0.033576373010873795,
+            0.1616629958152771
+          ],
+          "pov": [
+            0.01020797062665224,
+            3.510230089887045e-05,
+            0.9897449612617493,
+            1.20206923384103e-05
+          ]
+        }
+      ],
+      "inp_rev": [
+        [
+          [
+            "I wanted to get rid of deodorants after reading about the hazards of the ingredients used in them.",
+            "These crystals do the job.",
+            "No they do not keep you from sweating.",
+            "But, they do take care of the odor.",
+            "Use as directed... after showering and such.",
+            "I have not bought deodorant in years.",
+            "These rocks last a long, long time..."
+          ],
+          [
+            "This does indeed work and if you are not a heavy perspirer it will be effective for several days.",
+            "Don't know for sure how long it will last as i've not had mine that long, but for sure it's cheaper than the stuff we've been using for years."
+          ],
+          [
+            "This stuff works.",
+            "It is slippery and difficult to hold on to when it is wet, so I wasn't surprised when I dropped it on the floor and broke it into four jagged pieces.",
+            "I'll buy the stick next time."
+          ],
+          [
+            "I was very skeptical about the effectiveness of crystal deodorants.",
+            "I am very pleased with the results!",
+            "This works better than any deodorant I have ever used.",
+            "I will never go back to traditional deodorants.",
+            "This was money well spent."
+          ],
+          [
+            "I was somewhat skeptical at first in hearing about this product, but now i'm a believer.",
+            "I purchased a crystal a year ago and it is still working.",
+            "A little water activates the rock and then you apply it like a regular stick deodorant.",
+            "I can't believe it works so well and lasts so long."
+          ],
+          [
+            "The product is fantastic, I would highly recommend it to anyone who suffers with excessive persperation issues or B.O.",
+            "It will eliminate both after a few days use.",
+            "No kidding.",
+            "However don't buy from this seller, mine arrived broken completely in half and I contacted the seller for a replacement and they would not return my calls."
+          ],
+          [
+            "I love this product!",
+            "I use it and it doesn't make me smell like cologne or perfume but it keeps me smelling good (like me!)",
+            "All day.",
+            "It does not irritate my skin and it does the job.",
+            "It also lasts so much longer than the stick deodorant I used to use.",
+            "Better product for less money!",
+            "A real find!"
+          ],
+          [
+            "I have been using this product for over 10 years.",
+            "It works much better than common over the counter deodorants and lasts much longer.",
+            "I have never had a odor issue using this product no matter how hot or sweaty I got.",
+            "Great stuff... the larger 5 oz purchase is the most economical.highly recomend."
+          ]
+        ]
+      ]
+    },
+    "B003HT9W32": {
+      "gold_summs": [
+        [
+          [
+            "This heart rate monitor's easy to use right out of the package.",
+            "There aren't many features but it does have a backlight, an audible alarm, a programmable heart range and it's waterproof, which all contribute to a great workout.",
+            "This isn't made for professional athletes, but it's a great option for casual training."
+          ],
+          [
+            "This heart rate monitor is straight-forward and easy to use.",
+            "It is rather basic as it only provides the heart rate and time of exercise, but it provides an alert if outside of the target heart rate range.",
+            "It does not come with detailed instructions, but there is a more detailed manual on the website.",
+            "Be aware of the shipping information to ensure the correct product is being shipped."
+          ],
+          [
+            "This is a really good and simple heart rate monitor, perfect for those who don't need a fancy and complicated device.",
+            "It's back-lit, waterproof and very straightforward due to the fact that it only has one button.",
+            "However, it doesn't have a replaceable battery and the log only stores data for one workout."
+          ]
+        ]
+      ],
+      "gen_summ": [
+        [
+          "This heart monitor is easy to use, easy to set up, and accurate.",
+          "The heart rate monitor works well, but it is a little difficult to read with the monitor on the monitor.",
+          "It would be nice if it was a little more accurate, but other than that, it's a great product."
+        ]
+      ],
+      "rouge": [
+        {
+          "rouge1": {
+            "p": 0.4150943396226415,
+            "r": 0.35343819318410974,
+            "f": 0.3809179467716053
+          },
+          "rouge2": {
+            "p": 0.16025641025641024,
+            "r": 0.13553358032763066,
+            "f": 0.14651612969655783
+          },
+          "rougeL": {
+            "p": 0.29559748427672955,
+            "r": 0.2535908737360643,
+            "f": 0.2723903504391309
+          }
+        }
+      ],
+      "props": [
+        {
+          "len": 9.375,
+          "rating": 0.0,
+          "rouge": [
+            0.28667980432510376,
+            0.060833536088466644,
+            0.1794409155845642
+          ],
+          "pov": [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ]
+        }
+      ],
+      "pred_props": [
+        {
+          "len": 1.7743921279907227,
+          "rating": 0.06154821068048477,
+          "rouge": [
+            0.26905083656311035,
+            0.033833809196949005,
+            0.16844181716442108
+          ],
+          "pov": [
+            0.013866862282156944,
+            4.6186694817151874e-05,
+            0.9860664010047913,
+            2.0638226487790234e-05
+          ]
+        }
+      ],
+      "inp_rev": [
+        [
+          [
+            "I bought this monitor as a newcomer to heart rate monitors.",
+            "It is easy to use right out of the box and makes working out more enjoyable - you can make sure that you are working hard enough to improve, but not too hard.",
+            "Very good value."
+          ],
+          [
+            "It's my first heart rate monitor.",
+            "Very useful.",
+            "I always run with it to control my pace.",
+            "The problem is when I run more then 1 hour because I don't see the seconds as it has only 4 digits on the display."
+          ],
+          [
+            "Extremely easy to use, only one button.",
+            "Seems to be fairly accurate.",
+            "Has a backlight and can beep to warn you if you fall out of a Target heart range that is completely programmable.",
+            "However, the battery is not replaceable and the screen scratches easily."
+          ],
+          [
+            "I was disapointed to find the booklet with it didn't help with any instructions on use.",
+            "But after checking the manual on the internet I was able to set it up and use it.",
+            "It is much easier than others I have purchased.",
+            "This is what I was looking for.",
+            "Ease of use."
+          ],
+          [
+            "This is a good monitor if you have no need for the fancy training models.",
+            "Beginner or non-competitive runners should stick to basic types like this.",
+            "The Polar monitors I have had like this are well-made and easy to use and this is no exception.",
+            "I am coming off a long layoff and plan to use this to work back into shape without risking overtraining."
+          ],
+          [
+            "If you're looking for just a heart rate monitor (it is waterproof and good for swimming) then this is for you.",
+            "There aren't any bells and whistles at all.",
+            "Straight forward, heart rate, time of exercise and that's it.",
+            "The log only stores your last workouts data, you need to record it before you start another session."
+          ],
+          [
+            "This was very well-rated on consumer reports.",
+            "I really like that you can plug in your Target heart rate, and it has an audible alert to let you know when you're there.",
+            "The display is easy to read and it's light-weight."
+          ],
+          [
+            "I ordered and Polar ft2 and it was confirmed after the order was processed.",
+            "When I got the email for confirmation, it said ft1.",
+            "They did the old bait and switch on me!",
+            "I immediately returned it and very upset with the order after going through a long process of doing research for a hrm.",
+            "Very dissatisfied!"
+          ]
+        ]
+      ]
+    },
+    "B0039PH51K": {
+      "gold_summs": [
+        [
+          [
+            "The Acupressure mat is great for helping to relax.",
+            "It takes a little bit of time to try it but once it works it works well.",
+            "The mat helps with pain and pressure and is great to lay on, it is great for falling asleep on.",
+            "Also it is great for blood circulation and for walking on bare feet."
+          ],
+          [
+            "This acupressure mat can help ease aches and tension, increase blood circulation to extremities, and aid in general relaxation and restfulness.",
+            "It can also assist in healing, as it reduces movement while sleeping.",
+            "However, it takes some getting used to, and being unable to relax while using it will make it ineffective."
+          ],
+          [
+            "This mat can show results if used consistently over time.",
+            "It helps with relaxation, pain relief, and circulation.",
+            "If the mat isn't comfortable to use barefoot, it can also be used with socks worn.",
+            "If used every day, it is recommended to help greatly with tension and stress."
+          ]
+        ]
+      ],
+      "gen_summ": [
+        [
+          "This is a great product.",
+          "It is very comfortable and easy to use.",
+          "The only thing that would make it better is if it was a little more firm.",
+          "It would be nice if it had a lower back support, but for the price, it is well worth it."
+        ]
+      ],
+      "rouge": [
+        {
+          "rouge1": {
+            "p": 0.2993197278911565,
+            "r": 0.2719425449449662,
+            "f": 0.28449942499918923
+          },
+          "rouge2": {
+            "p": 0.041666666666666664,
+            "r": 0.037666215911652014,
+            "f": 0.03949082015119751
+          },
+          "rougeL": {
+            "p": 0.2108843537414966,
+            "r": 0.19351612874615295,
+            "f": 0.20150722555248723
+          }
+        }
+      ],
+      "props": [
+        {
+          "len": 1.3333333730697632,
+          "rating": 0.0,
+          "rouge": [
+            0.25852343440055847,
+            0.028525421395897865,
+            0.16790001094341278
+          ],
+          "pov": [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ]
+        }
+      ],
+      "pred_props": [
+        {
+          "len": 0.7034339904785156,
+          "rating": 0.044430069625377655,
+          "rouge": [
+            0.27997061610221863,
+            0.038712047040462494,
+            0.1717022806406021
+          ],
+          "pov": [
+            0.009880594909191132,
+            4.4478088966570795e-05,
+            0.9900577664375305,
+            1.7156566173071042e-05
+          ]
+        }
+      ],
+      "inp_rev": [
+        [
+          [
+            "Always consult with your doctor before purchasing any circulation product after surgery.",
+            "I had ankle surgery and this product is useful for blood circulation in the foot.",
+            "This increase in circulation has assisted with my ability to feel comfortable stepping down on the foot (only after doc said wait bearing was okay).",
+            "I use it sitting down barefoot."
+          ],
+          [
+            "I really like the acupressure mat.",
+            "I usually toss and turn a lot when I sleep, now I use this before I go to bed and it helps relax my body so that I can sleep more sound without all the tossing and turning."
+          ],
+          [
+            "I used the mat the first night after it arrived and every-other night since.",
+            "After 2 ten minute sessions, I am sold.",
+            "I have slept much better at night - I think it puts me in a more relaxed state, making it easier to fall asleep.",
+            "A rather inexpensive option to relieving tension in my neck, upper back and shoulders."
+          ],
+          [
+            "This is the best thing!",
+            "You can use socks if your feet are tender to walk on it or bare foot if you can take it.",
+            "I use it every morning to walk across to jump start my body.",
+            "When I think about it I will lay on it, it feels wonderful."
+          ],
+          [
+            "I love these spike mats and have recommended them to everyone that has had any kind of body ache.",
+            "Its great to lay on to relax you after a long day at work.",
+            "Helps with pain in my back and pain in my legs.",
+            "Its not a cure, but it sure helps with the healing process."
+          ],
+          [
+            "I wish I hadn't purchased this item.",
+            "I just can't get use to it, it's not comfortable.",
+            "I have not seen any benefits from using it but that could be because I don't relax or use it for long enough."
+          ],
+          [
+            "I run an alternative health center and use acupressure pin mats from different sources to treat my patients, but this product is the patients choice, they are asking allways for this mat against other brands so I changed all of them for britta, moreover the s & H was outstanding and really fast."
+          ],
+          [
+            "I ordered this acupressure mat to see if it would help relieve my back pain and at first it seemed like it wasn't doing much, but once you use it for a second or third time you can feel the pain relief and it also helps you relax.",
+            "I use it almost everyday now and it really helps.",
+            "I recommed this product and this seller."
+          ]
+        ]
+      ]
+    }
+  },
+  "home_kitchen": {
+    "B001EQJ5AU": {
+      "gold_summs": [
+        [
+          [
+            "The product is very easy to assemble.",
+            "The size and colors are nice, fit in a small room.",
+            "The major drawback of the product is that it often comes damaged, probably when shipping.",
+            "Scratches, broken parts, even completely unusable sets are common."
+          ],
+          [
+            "This is a perfect compact table that fits well in many places.",
+            "The chairs are surprisingly very comfortable as well.",
+            "It is cute and perfect for smaller living quarters and the best part is assembly is simple and straightforward."
+          ],
+          [
+            "A sturdy, attractive table a chair set, perfect for small spaces.",
+            "While the set is easy to assemble, damage is a problem.",
+            "Damages range from small scratches, open boxes to completely broken chairs.",
+            "Overall, the table and chair set is not recommended."
+          ]
+        ]
+      ],
+      "gen_summ": [
+        [
+          "This is a very nice table set for the price.",
+          "It was easy to assemble and looks great in the kitchen.",
+          "The only problem is that it is not sturdy enough to hold a lot of weight.",
+          "It would be nice if it had a little more weight to it so that it would not tip over."
+        ]
+      ],
+      "rouge": [
+        {
+          "rouge1": {
+            "p": 0.2982456140350877,
+            "r": 0.41391941391941395,
+            "f": 0.3465909090909091
+          },
+          "rouge2": {
+            "p": 0.06547619047619048,
+            "r": 0.09135643988018827,
+            "f": 0.07625941361409666
+          },
+          "rougeL": {
+            "p": 0.19883040935672514,
+            "r": 0.2759462759462759,
+            "f": 0.23106060606060605
+          }
+        }
+      ],
+      "props": [
+        {
+          "len": -9.458333015441895,
+          "rating": 0.0,
+          "rouge": [
+            0.27377182245254517,
+            0.04684782400727272,
+            0.16505074501037598
+          ],
+          "pov": [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ]
+        }
+      ],
+      "pred_props": [
+        {
+          "len": 0.9735400676727295,
+          "rating": 0.05863006412982941,
+          "rouge": [
+            0.28050634264945984,
+            0.03732549026608467,
+            0.17197565734386444
+          ],
+          "pov": [
+            0.010905633680522442,
+            4.306336268200539e-05,
+            0.9890345335006714,
+            1.6780622900114395e-05
+          ]
+        }
+      ],
+      "inp_rev": [
+        [
+          [
+            "It was easy to put together and looks great.",
+            "However, when the item was shipped to me, one of the backs of the chairs was broken.",
+            "I just fixed it myself with wood glue.",
+            "Its not even visible now.",
+            "The rest of it was in perfect condition."
+          ],
+          [
+            "The table and chairs are very nice but not quite the color I expected (but I am getting used to it).",
+            "Table and chairs delivered by the carrier right on time and with no damage.",
+            "Very easy to assemble, but very difficult to get out of the box it was so well protected."
+          ],
+          [
+            "This table was super easy to put together.",
+            "The table and chairs are solid and sturdy!",
+            "The seats are very comfortable.",
+            "The table is the perfect size for our not so big kitchen.",
+            "We are very pleased with this purchase."
+          ],
+          [
+            "Moved to smaller living quarters and this just fits the bill.",
+            "Color is perfect and it was easy to assemble.",
+            "One fault to find is that the top scratches easily.",
+            "It even came with a scratch.",
+            "Other than that it is fine."
+          ],
+          [
+            "I love my new dining room set.",
+            "The set is very sturdy, the walnut finish is a nice color.This set is great for a small area, kitchen nook.would not recommend for a large eating area.table is small and so are the chairs.yet strong enough to hold big boys and girls, thumps up, great price, packed well, arrived in a timely matter."
+          ],
+          [
+            "It fits perfectly in the kitchen at the office.",
+            "My staff assembled it without any delay.",
+            "Everyone loves the dining set and they can't believe I ordered it on-line.",
+            "I made the measurements and made sure of the dimensions of the room and the dining set and it's a perfect fit."
+          ],
+          [
+            "I received this table and chairs completely damaged.",
+            "The customer service experience with this company was terrible.",
+            "In my opinion, this set is cheap and overpriced.",
+            "It's not durable and not worth the money.",
+            "Don't waste your time."
+          ],
+          [
+            "The box looked like it had been opened, and then re-taped for resell.",
+            "One of the chairs was broken, and the broken piece was nowhere close to the originating piece.",
+            "Possibly other pieces damaged too, though didn't bother looking, instead just re-taped it back up to be sent back.",
+            "I hope they don't just resell it to someone else."
+          ]
+        ]
+      ]
+    },
+    "B001GCV0FK": {
+      "gold_summs": [
+        [
+          [
+            "This tea kettle is beautiful, although the color is darker than pictured.",
+            "The handle is made of plastic and is prone to melting.",
+            "The lid can be difficult to open but seems to get easier with time.",
+            "The kettle is somewhat recommended after taking these aspects into consideration."
+          ],
+          [
+            "This tea kettle looks cute and does its job heating water, but the color is actually a darker blue, not the light turquoise shown on the website.",
+            "The lid can be hard to remove at first, but gets better with use.",
+            "Also the plastic handle can melt if it gets too hot."
+          ],
+          [
+            "This is a great looking teapot, but it falls short on function.",
+            "It's smaller than most and not high quality.",
+            "The handle is plastic so water cannot be boiled on high in this teapot.",
+            "Also, the teapot doesn't have a whistle and the color isn't consistent.",
+            "Overall, it looks great but lacks functionality."
+          ]
+        ]
+      ],
+      "gen_summ": [
+        [
+          "This tea kettle is the perfect size for a small tea kettle.",
+          "It heats water quickly and is easy to clean.",
+          "The whistle is a little annoying, but it's not that big of a deal.",
+          "It would be nice if it had a whistle, but that's not a big deal."
+        ]
+      ],
+      "rouge": [
+        {
+          "rouge1": {
+            "p": 0.3141025641025641,
+            "r": 0.31333943833943834,
+            "f": 0.3134188034188034
+          },
+          "rouge2": {
+            "p": 0.0784313725490196,
+            "r": 0.07875500941833859,
+            "f": 0.0785119079078172
+          },
+          "rougeL": {
+            "p": 0.21794871794871795,
+            "r": 0.2187881562881563,
+            "f": 0.21815764482431146
+          }
+        }
+      ],
+      "props": [
+        {
+          "len": 6.416666507720947,
+          "rating": 0.0,
+          "rouge": [
+            0.24766086041927338,
+            0.04845450073480606,
+            0.16628621518611908
+          ],
+          "pov": [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ]
+        }
+      ],
+      "pred_props": [
+        {
+          "len": 4.2755537033081055,
+          "rating": 0.06925210356712341,
+          "rouge": [
+            0.27805033326148987,
+            0.04355769231915474,
+            0.1951824277639389
+          ],
+          "pov": [
+            0.04518144950270653,
+            0.00019918450561817735,
+            0.9544199705123901,
+            0.00019935097952838987
+          ]
+        }
+      ],
+      "inp_rev": [
+        [
+          [
+            "This teapot works well for me, sometimes I wish it had a whistle.",
+            "The color appears as shown.",
+            "Remember to use it on low / medium heat.",
+            "At first the top is a little difficult to remove but now it works well."
+          ],
+          [
+            "As a tea pot it works fine but the handle is plastic & the cover has repainted & chipped paint at the base of the knob.I am not happy with the product but because of my health & price, I did not send it back."
+          ],
+          [
+            "It's lovely.",
+            "No cracking or loss of enamel.",
+            "It is just the right color.",
+            "Sadly it is a little smaller than I expected (smaller than the average tea kettle) makes for small batches of tea.",
+            "Quite happy with it though."
+          ],
+          [
+            "Be warned - the color of this cute little kettle as depicted in this ad is not at all what arrives when you order it.",
+            "It's more of a medium, dusty sky blue.",
+            "Not in any way 'turquoise.'"
+          ],
+          [
+            "The color is great.",
+            "Just what I wanted for my kitchen devore.",
+            "One thing, I rated 4 stars because I find it difficult to open the lid... it's really tough.",
+            "It's tight.",
+            "After a few day it has gotten better.",
+            "I think it'll keep getting easier.",
+            "Besides that one flaw I like it."
+          ],
+          [
+            "The kettle is beautiful, but within 5 uses the handle started melting.",
+            "Apparently the handle is plastic and cannot withstand hot temperatures, which is unfortunate for a product that must hold boiling water.",
+            "You can buy this kettle if you don't plan on using it.",
+            "You've been warned!",
+            "!"
+          ],
+          [
+            "Perfect for our seafront condo in Florida style - bought all our kitchen accessories to go with it.No problems, but I do intend to drain all the water out after using and not let any sit overnight in the pot to prevent rust."
+          ],
+          [
+            "I ordered this as a gift because the color is shown as a light turquoise, which I wanted.",
+            "The color is actually a very dark turquoise, could have bought the same color in Target for less money... the teapot itself is very nice.. may be sending it back though"
+          ]
+        ]
+      ]
+    },
+    "B0025OO8DO": {
+      "gold_summs": [
+        [
+          [
+            "This is a small can of dry-pack silica gel that can be used to reduce moisture in sensitive areas.",
+            "It needs to be put in the oven for a couple of hours to dry out once the indicator bar turns green.",
+            "In some cases it only reduces the humidity by 1 or 2 percent."
+          ],
+          [
+            "Dry packs are great for areas where an electronic dehumidifier isn't practical.",
+            "The green indicator shows when they need to be recharged, which can easily be done in the oven.",
+            "They work well and come in small sizes great for use in safes and containers.",
+            "They don't work as well in extreme temperatures."
+          ],
+          [
+            "This dry pack is helpful for protecting items and making sure they stay dry.",
+            "It's small enough to fit in pretty much any desired container, it has a convenient moisture indicator and it's easy to recharge it just by \"baking\" it in the oven.",
+            "The performance isn't that great however and it needs to be recharged frequently."
+          ]
+        ]
+      ],
+      "gen_summ": [
+        [
+          "This product is a great value for the price.",
+          "It packs a lot of moisture and is easy to use.",
+          "It is small enough to store in a small space, but small enough that it can take up very little space.",
+          "The only drawback is that it does not dry out in a humid environment, so be aware of that."
+        ]
+      ],
+      "rouge": [
+        {
+          "rouge1": {
+            "p": 0.3555555555555556,
+            "r": 0.3757575757575758,
+            "f": 0.3652173913043479
+          },
+          "rouge2": {
+            "p": 0.03389830508474576,
+            "r": 0.0354676710608914,
+            "f": 0.03464826758662067
+          },
+          "rougeL": {
+            "p": 0.19444444444444445,
+            "r": 0.20454545454545456,
+            "f": 0.19927536231884058
+          }
+        }
+      ],
+      "props": [
+        {
+          "len": 2.0,
+          "rating": 0.0,
+          "rouge": [
+            0.2643885016441345,
+            0.050387345254421234,
+            0.16125693917274475
+          ],
+          "pov": [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ]
+        }
+      ],
+      "pred_props": [
+        {
+          "len": 0.8154631853103638,
+          "rating": 0.06326452642679214,
+          "rouge": [
+            0.2707306742668152,
+            0.03262752294540405,
+            0.1647423505783081
+          ],
+          "pov": [
+            0.010793295688927174,
+            3.1623654649592936e-05,
+            0.9891647696495056,
+            1.0413863492431119e-05
+          ]
+        }
+      ],
+      "inp_rev": [
+        [
+          [
+            "Nice quality for the case.",
+            "Little window is convenient for seeing color crystals.",
+            "Convenient shape for my purposes.",
+            "Works as well as any other brands i've had.",
+            "Case looks durable.I use these for protecting very expensive microphones I keep in sealed Tupperware style cases."
+          ],
+          [
+            "I put this in my safe because some things in it seemed to be 'soggy.",
+            "I had to recharge it by baking it.",
+            "The only this I would change was to buy a couple or get a bigger one to extract more water."
+          ],
+          [
+            "I'm really not sure how good this is going to work.",
+            "According to the instructions when the indicator turns green you are suppose to put it in the oven and dry it out.",
+            "When I got mine the indicator was already mostly green."
+          ],
+          [
+            "Even though the humidity in the areas I used them ranges from 40% to 57%, the dry packs turned green much too quickly to be worth ordering more.",
+            "I bought ten, and with a week or so, already some require 2 hours in the oven to dry out.",
+            "Way too much energy.",
+            "I'll probably need a stationary dehumidier."
+          ],
+          [
+            "Love this little unit.",
+            "Small enough to place in any container I chose and also 'rechargeable' by drying it out in an oven.",
+            "Color indicator is very helpful to determine if moisture contamination has occured.",
+            "Recommend for tropical zones and protecting valuable weaponry or jewelry."
+          ],
+          [
+            "This dry pack as it's so called wouldn't even keep the humidity level in my small handgun safe down at an acceptable level, I even tried recharging it and it still did not work properly.",
+            "I keep a electronic humidity monitor in my safe, and this dry pack would drop the humidity 1 or 2 percent from what it was without the pack."
+          ],
+          [
+            "My husband is a farrier and has a horse hoof that he uses in educating his clients.",
+            "He has been using silica gel that he has pulled out of other packaging and so has not had a chance to evaluate this item.",
+            "He likes the small size and the fact that it has an indicator on it."
+          ],
+          [
+            "Our photocopy machine jams often - the high humidity is a factor for that.",
+            "We have placed the dry-pack silican gel can on the photocopy tray that feeds the paper to the machine.",
+            "The slender dimension allowed us to do that.",
+            "So far, we've had fewer jams.",
+            "I've also used a larger replenishable desiccant in the cabinet where we store the paper."
+          ]
+        ]
+      ]
+    }
+  },
+  "<GROUPING_FNAMES>": [
+    "category",
+    "group_id"
+  ]
+}

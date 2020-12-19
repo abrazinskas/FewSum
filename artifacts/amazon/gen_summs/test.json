@@ -1,0 +1,2686 @@
+{
+  "cloth": {
+    "B004X86A86": {
+      "gold_summs": [
+        [
+          [
+            "Purse looks great.",
+            "The bag is cute and flashy but the size is smaller than expected overall.",
+            "The stones and straps are not very durable and break or fall off easily."
+          ],
+          [
+            "The purse is perfect in visually, with a beautiful look and shape.",
+            "However, the bag is smaller than pictured and the straps of the purse break almost immediately.",
+            "The decorative stones fall off often and the quality it cheap.",
+            "Overall, it is not a recommended purchase."
+          ],
+          [
+            "This is a beautiful purse, but it lacks durability.",
+            "The bag is poor quality and it's too small.",
+            "The straps are also too short which can lead to them breaking off entirely.",
+            "Another quality issue with this bag is that the stones fall off with continued use of the purse."
+          ]
+        ]
+      ],
+      "gen_summ": [
+        [
+          "This purse is not as cute as it looks in the picture.",
+          "It is very small and will not hold a lot of stuff.",
+          "It would be a great purse if it was a little bigger but it would have been nice to have a purse that would hold more than one purse."
+        ]
+      ],
+      "rouge": [
+        {
+          "rouge1": {
+            "p": 0.27044025157232704,
+            "r": 0.3430135027362979,
+            "f": 0.29913604913604913
+          },
+          "rouge2": {
+            "p": 0.025641025641025644,
+            "r": 0.02888888888888889,
+            "f": 0.02715450441344923
+          },
+          "rougeL": {
+            "p": 0.17610062893081765,
+            "r": 0.22033843925602029,
+            "f": 0.19373219373219372
+          }
+        }
+      ],
+      "true_props": [
+        {
+          "len": -4.875,
+          "rating": 0.0,
+          "rouge": [
+            0.24394413828849792,
+            0.04573020711541176,
+            0.17272783815860748
+          ],
+          "pov": [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ]
+        }
+      ],
+      "pred_props": [
+        {
+          "len": 1.0881644487380981,
+          "rating": 0.11710472404956818,
+          "rouge": [
+            0.2755654752254486,
+            0.03776306286454201,
+            0.17569993436336517
+          ],
+          "pov": [
+            0.010767274536192417,
+            4.876773527939804e-05,
+            0.9891629219055176,
+            2.1028859919169918e-05
+          ]
+        }
+      ],
+      "inp_rev": [
+        [
+          [
+            "I chose it because it's a beautiful purse, but too many straps (4) they come off, but then the connecter is still visible.",
+            "I had to return it, I couldn't even see a way to have my leather person doctor it up without ruining the beauty of it."
+          ],
+          [
+            "I hate this bag!",
+            "It's horrible, it's the worst bag i've ever got!",
+            "It broke the first day I got it and didn't even carry it!",
+            "It's definitely not the size I thought it was!"
+          ],
+          [
+            "I like the purse, but you definitely can't carry it often because the stones fall off a lot.",
+            "Its a decent size snd the material is a decent quality.",
+            "I would love the purse if the stones didn't fall off."
+          ],
+          [
+            "Love this!",
+            "Pretty size: not to big?",
+            "Not to small, color and shape!",
+            "And very flashy.",
+            "Everyone loves it!",
+            "All the stones were on it when it arrived at my house and only one fell off as I was trying it out!"
+          ],
+          [
+            "I have had this purse less than a month and now all 3 straps broke!!!!",
+            "Worst quality ever!!!!!",
+            "Had to throw it away!!",
+            "40 $(after shipping) down the toilet!",
+            "!"
+          ],
+          [
+            "I bought this purse and was worried it wouldnt come as it said in the ad.",
+            "When it arrived at my home I was more than extatic when I saw how nice it was.",
+            "I am actually very impressed by this purse, and reccomend it to any one looking to spice up there out fit.",
+            "Looks great with boots and leggings!"
+          ],
+          [
+            "I was all about this bag and then when ups brought it I was not to happy, the bag is way to small the straps are to short and one of the straps was broken.So I will B e returning or give it to my daughter to play with."
+          ],
+          [
+            "The bag is a lot smaller than it appears, I though I could fit my school books in it but I definitely cannot.",
+            "However it's a really cute bag and I will still get a lot of use out of it."
+          ]
+        ]
+      ]
+    },
+    "B000A2FTN6": {
+      "gold_summs": [
+        [
+          [
+            "These tights are great.",
+            "They are durable and do not tear easily, they can be worn and washed without worry.",
+            "The bottoms of can be pulled up easily so that sandals can be worn with them.",
+            "It might be a good idea to order a size bigger because they can be a little tight in the waist.",
+            "Overall, these tights are definitely recommended."
+          ],
+          [
+            "These transition tights are perfect for children sensitive to the tight sensation other tights have around the foot.",
+            "The material is soft and durable; they stand up well to both the rough nature of children, and the washing machine.",
+            "This product does tend to run slightly small, so purchasing one size up is recommended."
+          ],
+          [
+            "Great soft feeling fabric and beautiful color tights.",
+            "The best feature of the tights is that foot area can be pulled up quickly to allow bare feet and toes to be free.",
+            "Check the sizing around the waist to allow a comfortable fit."
+          ]
+        ]
+      ],
+      "gen_summ": [
+        [
+          "These tights are a great value for the price.",
+          "The fit is true to size and the quality of the tights is very good.",
+          "They are well made and will last a long time.",
+          "They do run a little on the small side, so order a size up."
+        ]
+      ],
+      "rouge": [
+        {
+          "rouge1": {
+            "p": 0.4375,
+            "r": 0.39299044337804023,
+            "f": 0.4116870587458823
+          },
+          "rouge2": {
+            "p": 0.09219858156028367,
+            "r": 0.08122482103005536,
+            "f": 0.08583582448544824
+          },
+          "rougeL": {
+            "p": 0.2708333333333333,
+            "r": 0.24506788072679542,
+            "f": 0.25591331473684414
+          }
+        }
+      ],
+      "true_props": [
+        {
+          "len": 0.125,
+          "rating": 0.0,
+          "rouge": [
+            0.2510314881801605,
+            0.025410203263163567,
+            0.15057320892810822
+          ],
+          "pov": [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ]
+        }
+      ],
+      "pred_props": [
+        {
+          "len": 0.1464654803276062,
+          "rating": 0.048063792288303375,
+          "rouge": [
+            0.2744935154914856,
+            0.03518925979733467,
+            0.16521641612052917
+          ],
+          "pov": [
+            0.008966483175754547,
+            3.254873809055425e-05,
+            0.9909907579421997,
+            1.018552666209871e-05
+          ]
+        }
+      ],
+      "inp_rev": [
+        [
+          [
+            "These are the perfect tights for my 5-year old.",
+            "The tights are very well made and have already lasted several washings (hang dry).",
+            "The color is beautiful, and my daughter loves that she can wear flip-flops to class like the big girls do."
+          ],
+          [
+            "My 3 year old fit into these perfectly.",
+            "I love these tights, they are great for wearing sandals to dance class and then pulling them over her toes to put ballet slippers on.",
+            "They are nice and soft and the pink color is pretty.",
+            "Will purchase again."
+          ],
+          [
+            "These are my daughters preferred ballet tights.",
+            "They fit well and don't squish her toes as much as some others.",
+            "The convertible option is nice as she can wear flip flops to the studio with her tights.",
+            "I like that they appear to be fairly durable."
+          ],
+          [
+            "Bought this for my little one to use for her ballet class.",
+            "She's almost 4 and this fits perfectly.",
+            "Transition tights give her the ability to pull up the foot area to around the ankles so that they don't get dirty when not wearing her shoes, but fit well and stay in place when pulled over her feet and used with ballet shoes on."
+          ],
+          [
+            "Great soft fabric, runs small a though.",
+            "U should consider getting one size up to avoid having your daughter, or son if he's into ballet, have little circulation.",
+            "Don't get me wrong, great product and material."
+          ],
+          [
+            "I purchased these tights for my 4 year old because she has a tap class immediately followed by an Acro class.",
+            "Tights fit well and were easy to transition to bare feet after tap.",
+            "I can't comment on how they hold up, as we only had one week of dance so far."
+          ],
+          [
+            "This is my go to tight when my daughter needs new ones.",
+            "I won't buy anything else.",
+            "They are super comfy and last forever!",
+            "She is 7 but very slim and these will fit her for a while but the 8-12 is a better fit for longevity purposes but they only had this size left and I needed them right away."
+          ],
+          [
+            "These are great tights.",
+            "If your girl is chubby on the waist I think you should order a number up.",
+            "They are a strong tihgts.",
+            "My daugther has it for more than 4 months and hasn't broken them.",
+            "She only complains some days about the waist, just when she has had a lot of milk or food recently.",
+            "She's 3 years old."
+          ]
+        ]
+      ]
+    },
+    "B009L0KU46": {
+      "gold_summs": [
+        [
+          [
+            "These athletic shoes are comfortable and good looking.",
+            "They fit well, provide good support and can be worn every day or for long outings.",
+            "The shoes are true to size and have a good selection of colors.",
+            "Overall, these are a great athletic shoe for the price.",
+            "They are highly recommended."
+          ],
+          [
+            "These shoes run true to size, do a good job supporting the arch of the foot and are well-suited for exercise.",
+            "They're good looking, comfortable, and the sole feels soft and cushioned.",
+            "Overall they are a nice, light-weight pair of shoes and come in a variety of stylish colors."
+          ],
+          [
+            "These are very stylish, well-fitting, supportive sneakers.",
+            "They are available in a variety of colors and can be worn casually anywhere.",
+            "They are lightweight while still providing a lot of cushion to keep your feet feeling great.",
+            "Highly recommended sneaker from Reebok"
+          ]
+        ]
+      ],
+      "gen_summ": [
+        [
+          "These running shoes are great!",
+          "They fit true to size and are very comfortable to run around in.",
+          "They are light weight and have great support.",
+          "They run a little on the narrow side, so make sure to order a half size larger than normal."
+        ]
+      ],
+      "rouge": [
+        {
+          "rouge1": {
+            "p": 0.4074074074074074,
+            "r": 0.3752031522209361,
+            "f": 0.38998229719879207
+          },
+          "rouge2": {
+            "p": 0.10606060606060606,
+            "r": 0.09521942110177405,
+            "f": 0.10023698533815988
+          },
+          "rougeL": {
+            "p": 0.25925925925925924,
+            "r": 0.23794240415307447,
+            "f": 0.24773508278662923
+          }
+        }
+      ],
+      "true_props": [
+        {
+          "len": -4.958333492279053,
+          "rating": 0.0,
+          "rouge": [
+            0.2807249426841736,
+            0.05087148770689964,
+            0.1677313894033432
+          ],
+          "pov": [
+            0.0,
+            0.1428571492433548,
+            0.8571428656578064,
+            0.0
+          ]
+        }
+      ],
+      "pred_props": [
+        {
+          "len": -0.8122857809066772,
+          "rating": 0.01727128028869629,
+          "rouge": [
+            0.28176066279411316,
+            0.03734205290675163,
+            0.16300393640995026
+          ],
+          "pov": [
+            0.007954701781272888,
+            3.080922397202812e-05,
+            0.9920068383216858,
+            7.582639227621257e-06
+          ]
+        }
+      ],
+      "inp_rev": [
+        [
+          [
+            "The shoes are the perfect fit for me.",
+            "They supply the support that I need yet are flexible and comfortable.",
+            "I wear these all day in my 2nd grade classroom and my feet are not tired at the end of the day.",
+            "I will be buying another pair in a different color."
+          ],
+          [
+            "I overpronate and should have known better than to buy these shoes.",
+            "They are really sharp looking and probably would work for someone with a regular feet.",
+            "I wish I could have kept them as I did get lots of compliments at the gym when wearing them;)"
+          ],
+          [
+            "It is very comfortable and the bottom is really soft on my feet.",
+            "I usually wear 8 but I had to get a 7 in this.",
+            "So it ran large for me.",
+            "I have wide feet though too.",
+            "Very stylish.",
+            "I enjoy wearing them running and casually as well."
+          ],
+          [
+            "Got a blister the first time wearing them.",
+            "They did nothing for the foot pain experienced from wearing cheaper shoes.",
+            "Guess I was expecting too much, but I refuse to pay the ridiculously high prices charged nowadays.",
+            "I'm sure they are just as good as those costing $100 more.",
+            "Nice colors!"
+          ],
+          [
+            "These shoes are awsome.",
+            "I have a really hard time finding running shoes due to a high arch and the need for a shoe between a neutral shoe and a stability shoe these shoes felt great right out of the box.",
+            "They run true to size and the colors are great.",
+            "Great shoe for a great price."
+          ],
+          [
+            "These are a must have item...!!",
+            "They are totally awesome on my feet and feel like a dream.",
+            "I do a lot of power-walking and these little cuties are rad..!!",
+            "Totally light weight but real cushie..... love em 'and would definitely buy from this seller again..!",
+            "!"
+          ],
+          [
+            "I usually wear a size women's 10.",
+            "Nike shoes run small, so I usually waer an 11 in nike.",
+            "These Reeboks fit more true to size, but I still ordered a 10.5 and the fit is great!",
+            "The shoe seems durable and well-made.",
+            "It forms to my foot and supports my arch very well."
+          ],
+          [
+            "She loves the shoes!",
+            "My girlfriend is picky about shoes and avoids online purchases.",
+            "I asked her to find a pair of athletic shoes that look attractive.",
+            "She gave me her size and I purchased them.",
+            "They are lightweight and she says they cushion her feet well.",
+            "She has been wearing them for long walks and tandem bike rides since she received them!"
+          ]
+        ]
+      ]
+    },
+    "B00AZ6WVQU": {
+      "gold_summs": [
+        [
+          [
+            "This is a comfortable to wear tank, however, it runs small and the material feels a bit thin.",
+            "The length is actually average and not long, or tunic length as described.",
+            "Washes well, but expect a bit of shrinkage.",
+            "Overall, underwhelming and a tad overpriced for the quality of the garment received."
+          ],
+          [
+            "The tank top is advertised as a long, but is actually normal-to-short in length.",
+            "It is fine for layering under other clothes, but the material is thin, and the tank is priced a little high for the quality.",
+            "It is really not recommended for anything but wearing under other clothes."
+          ],
+          [
+            "This is a good looking and comfortable tank top.",
+            "However, it is not a long tank top that will cover below the hips.",
+            "The tank top is average length and it tends to run small sizewise.",
+            "The quality is good but the material is thin making it good for layering."
+          ]
+        ]
+      ],
+      "gen_summ": [
+        [
+          "This tank top is well made, fits well, and is comfortable to wear.",
+          "The only thing is that it runs a little small, so order a size up from what you normally wear.",
+          "Other than that, it's a great top.",
+          "It's well made and it looks like it will last a long time.",
+          "Love it!"
+        ]
+      ],
+      "rouge": [
+        {
+          "rouge1": {
+            "p": 0.34502923976608185,
+            "r": 0.3841025641025641,
+            "f": 0.36348566692389034
+          },
+          "rouge2": {
+            "p": 0.06547619047619048,
+            "r": 0.0729625183406696,
+            "f": 0.06901053256193442
+          },
+          "rougeL": {
+            "p": 0.19883040935672514,
+            "r": 0.22076923076923075,
+            "f": 0.20920860841978908
+          }
+        }
+      ],
+      "true_props": [
+        {
+          "len": 4.958333492279053,
+          "rating": 0.0,
+          "rouge": [
+            0.27513232827186584,
+            0.04485500603914261,
+            0.16738145053386688
+          ],
+          "pov": [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ]
+        }
+      ],
+      "pred_props": [
+        {
+          "len": 2.419267416000366,
+          "rating": 0.05660638213157654,
+          "rouge": [
+            0.27188581228256226,
+            0.0336722768843174,
+            0.16939932107925415
+          ],
+          "pov": [
+            0.018348900601267815,
+            5.703938222723082e-05,
+            0.9815639853477478,
+            2.999473326781299e-05
+          ]
+        }
+      ],
+      "inp_rev": [
+        [
+          [
+            "The description say it long... not so it is average.",
+            "That's why I purchased it because it said it was long.",
+            "This is a basic tank.I washed it and it didn't warp but did shrink a little.",
+            "Nothing to brag about."
+          ],
+          [
+            "I'm 5 '4' and this tank fits like a normal tank top, not any longer.",
+            "I was trying to find a tank that would cover past my hips, so I could wear it with leggings.",
+            "Don't order if you're expecting tunic length."
+          ],
+          [
+            "This shirt is ok if you are layering for sure.",
+            "It is thin and runs small.",
+            "I usually wear a small and read the reviews and ordered a medium.",
+            "It fits tight and is not long like in the picture.",
+            "Glad I only purchased one."
+          ],
+          [
+            "The tank fit very well and was comfortbale to wear.",
+            "The material was thinner than I expected, and I felt it was probably a little over priced.",
+            "I've bought much higher quality tanks for $5 at a local store."
+          ],
+          [
+            "The only reason i'm rating this at two stars is because it is listed as a 'long' tank top and the photo even shows it going well past the models hips, however i'm short and the tank top is just a normal length."
+          ],
+          [
+            "I usually get them someplace out but they no longer carry them.",
+            "I thought I would give these a try.",
+            "I received them fast, although I did order a brown and got a black (which I also needed a black anyway).",
+            "They were a lot thinner than I like but they are okay."
+          ],
+          [
+            "Every women should own one in every color.",
+            "They wash well perfect under everything.",
+            "Perfect alone.",
+            "As I write i'm waiting on another of the same style to arrive.",
+            "Just feels quality I don't know how else to explain it, but i'm sure you get it ladies!"
+          ],
+          [
+            "I bought this tank to wear under shirts when it is colder out.",
+            "I bought one in white and one in an aqua blue color.",
+            "They are long enough that the color peeks out from under my tops.",
+            "Looks cute.",
+            "I do wish that the neck line was a bit higher cut to provide more modest coverage of my chest."
+          ]
+        ]
+      ]
+    },
+    "B002AROW78": {
+      "gold_summs": [
+        [
+          [
+            "What an impressive Thomas the Train costume!",
+            "It will fit any train loving toddler for at least a few Halloween seasons due to its roomy design.",
+            "The candy pocket on the front is an adorable touch.",
+            "And it's so stinkin' cute!",
+            "Absolutely worth the price."
+          ],
+          [
+            "A perfect Thomas Halloween costume, complete with an over-sized candy holding pouch.",
+            "With plenty of room, this costume fits best for children 20 months to 3 years of age.",
+            "It may even allow for multiple Halloween uses.",
+            "The fabric is a little thin but overall, perfect quality for a Halloween costume.",
+            "Kids absolutely love it!"
+          ],
+          [
+            "This Thomas the Tank costume is perfect for small children.",
+            "It fits most children up to five or six years old, and could even be used multiple times as the child grows.",
+            "It has a handy pouch on the front that holds a large load of candy.",
+            "The costume is highly recommended."
+          ]
+        ]
+      ],
+      "gen_summ": [
+        [
+          "This is a great costume for a little boy's Halloween costume.",
+          "It's a little big on him, but he will be able to wear it for a long time.",
+          "The costume is well made and has held up well.",
+          "He's only worn it once so far, so he's not sure how long it will last."
+        ]
+      ],
+      "rouge": [
+        {
+          "rouge1": {
+            "p": 0.2768361581920904,
+            "r": 0.31802436693741043,
+            "f": 0.2955477216346782
+          },
+          "rouge2": {
+            "p": 0.051724137931034475,
+            "r": 0.05953654188948307,
+            "f": 0.055248711689293066
+          },
+          "rougeL": {
+            "p": 0.17514124293785308,
+            "r": 0.2020425226946966,
+            "f": 0.18732023949415255
+          }
+        }
+      ],
+      "true_props": [
+        {
+          "len": -3.0,
+          "rating": 0.0,
+          "rouge": [
+            0.29490041732788086,
+            0.0317118801176548,
+            0.1572965383529663
+          ],
+          "pov": [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ]
+        }
+      ],
+      "pred_props": [
+        {
+          "len": -0.65526282787323,
+          "rating": 0.006954222917556763,
+          "rouge": [
+            0.27494123578071594,
+            0.03806915506720543,
+            0.16657009720802307
+          ],
+          "pov": [
+            0.008118045516312122,
+            3.395868043298833e-05,
+            0.9918386340141296,
+            9.466973097005393e-06
+          ]
+        }
+      ],
+      "inp_rev": [
+        [
+          [
+            "My son is 3 and this fits him perfectly.",
+            "He'll probably be able to wear it for the next two years if he'd like.",
+            "It's cute too.",
+            "The hat is thin, but completes the outfit.",
+            "And the candy pocket is huge.",
+            "Perfect!",
+            "I'm so glad we bought this costume over any other Thomas costume."
+          ],
+          [
+            "I ordered this for my 3 yr old for halloween.",
+            "He loved it!!",
+            "The candy catcher in the front is really neat, but probably need to take a pail or something else along also because it can get to be heavy if they get a lot of candy.",
+            "I was very pleased with the way it fit and everything."
+          ],
+          [
+            "Received from Toynk toys and was very disappointed when I opened the pkg...... very flimsy felt fabric.",
+            "No 3D sculpted face that I expected.",
+            "I became creative and added huge googly eyes, pumpkin patch, spiders, bats, and train tracks to the outfit to make it a bit more suitable for my taste."
+          ],
+          [
+            "This is a cute costume that we got for my lil cousin and the candy pouch is basically the size of the entire costume so that's P cool.",
+            "I doubt it would fit up to six years old like it's advertised as, but it's the perfect size for him (age 2)"
+          ],
+          [
+            "My son looked sooooo cute with this costume on.",
+            "It was well worth the price in my opinion because, his face light up when he seen it in the package.",
+            "The whole night he kept saying to the doors he got candy from 'me the train, chuchu!!'"
+          ],
+          [
+            "I ordered this costume online and it was perfect for my 20 month old son's second halloween.",
+            "It was comfortable and he loved the pocket.",
+            "The size was perfect because it didn't need to be a particular fit.",
+            "He loved the hat too.",
+            "Every house we went to trick or treat complimented the outfit too."
+          ],
+          [
+            "My 2 year old loved this costume.",
+            "He went on the Halloween parade at school and everyone said it was very creative that he has his own candy pouch as part of his costume.",
+            "He also went around the neighborhood and was pretty popular with his Thomas the train look."
+          ],
+          [
+            "I was pleasantly surprised at how cute this costume is in person.",
+            "My 3 year old son loved being Thomas for halloween, and the candy catcher was a great feature.",
+            "It also looks like it will grow with him, so we may use it again for Halloween next year if he's still thomas-obsessed!"
+          ]
+        ]
+      ]
+    }
+  },
+  "electronics": {
+    "B005ZA2W42": {
+      "gold_summs": [
+        [
+          [
+            "This solar charger works well at first and charges phones well but does not adequately charge iPads or Kindles.",
+            "The LED flashlight is quite bright.",
+            "Performance over time is not reliable as the charge battery begins to not hold charge.",
+            "A battery charge level indicator would be helpful.",
+            "Overall, a decent purchase for a backup or travel."
+          ],
+          [
+            "The solar charger is good fit for travel bag.",
+            "The LED light is one of the best function of this charger as its very bright.",
+            "Though will recommend this charger to charge the cell phones only as it does not have capacity to charge other devices such as Tablets."
+          ],
+          [
+            "This solar-powered charger performs inconsistently, charging some devices fully but failing to properly charge others.",
+            "The LED flashlight is too bright  and there is no accurate display of charge level.",
+            "It's not reliable enough for everyday use, but can be convenient for long trips without a consistent access to a power source."
+          ]
+        ]
+      ],
+      "gen_summ": [
+        [
+          "This charger is a good value for the price, but it does not charge the battery as well as the charger that comes with the solar charger.",
+          "It would be nice if it was able to charge more than one charge at a time.",
+          "Otherwise, it's a great product and would recommend it to anyone looking to charge their solar devices."
+        ]
+      ],
+      "rouge": [
+        {
+          "rouge1": {
+            "p": 0.3763440860215053,
+            "r": 0.43876887987163676,
+            "f": 0.4047449361850985
+          },
+          "rouge2": {
+            "p": 0.07650273224043716,
+            "r": 0.09259883198562442,
+            "f": 0.0836858475680301
+          },
+          "rougeL": {
+            "p": 0.20430107526881722,
+            "r": 0.23883783532906336,
+            "f": 0.21998672100091976
+          }
+        }
+      ],
+      "true_props": [
+        {
+          "len": 2.1666667461395264,
+          "rating": 0.0,
+          "rouge": [
+            0.2643212378025055,
+            0.034732040017843246,
+            0.16300876438617706
+          ],
+          "pov": [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ]
+        }
+      ],
+      "pred_props": [
+        {
+          "len": 3.5940632820129395,
+          "rating": 0.05849124491214752,
+          "rouge": [
+            0.27246418595314026,
+            0.03783189132809639,
+            0.17991985380649567
+          ],
+          "pov": [
+            0.029396701604127884,
+            0.00011079177056672052,
+            0.9704074859619141,
+            8.500859257765114e-05
+          ]
+        }
+      ],
+      "inp_rev": [
+        [
+          [
+            "This product recharges my wife's iPhone 4 with no problem.",
+            "One downside - it does not have enough juice to charge an ipad.",
+            "It would benefit from some indication of the percentage charge of the battery.",
+            "Also, the LED light is very bright."
+          ],
+          [
+            "The product is great .The issue is that it came broken and I only found out after I had it for a month.",
+            "There is no was to call there support.",
+            "Very very bad idea.",
+            "Will do more research next time .I don't think I would buy it again!!!",
+            "!"
+          ],
+          [
+            "I bought this to test it out for charging my phone on at section hikes.",
+            "For the added weight, it was a nice-to-have item.",
+            "I probably wouldn't have it on a through-hike, but it worked well and if you aren't going to have access to a power source for recharging your phone while you're out, it does the job pretty well."
+          ],
+          [
+            "This solar charger works perfectly.",
+            "It can be charged with electricity or solar power making it a great backup for charging devices.",
+            "For its size I would recommend getting one and putting it in your but out bag for use with e-devices."
+          ],
+          [
+            "I ordered this charger to take on safari to South Africa.",
+            "It is suppose to charge an iPhone and kindles.",
+            "It doesn't work with either of mine.",
+            "It was a waste of money for me.",
+            "I'm very disappointed."
+          ],
+          [
+            "Charges up, charges your devices.",
+            "The flashlight is really bright.",
+            "I had to take a star off because the charge battery doesn't hold a charge over a period of time.",
+            "However don't go cheap, this product is worth the money."
+          ],
+          [
+            "This is my first solar charger, so I can't compare it to any others.",
+            "I will say that the flashlight is extremely bright as noted by others.",
+            "It seems to do a nice job charging my Droid Bionic but it didn't seem to work on the Kindle fire."
+          ],
+          [
+            "I left it out for 24 hours in direct sun, the lights on the side showing the progress of charging blindly blinked, but the charge gave my iPod only 1 / 10 of full battery.",
+            "I tried again and placed it in the sun for 2 sunny days straight, again, after multiple annoying blinking signals, it did not charge anything.",
+            "Returned."
+          ]
+        ]
+      ]
+    },
+    "B000V7CPJG": {
+      "gold_summs": [
+        [
+          [
+            "Overall impression of the product is negative.",
+            "In some cases it works nicely, but the settings are confusing to adjust, sometimes it is not clear if they do anything at all.",
+            "Product is not worth the money that it costs, it better to avoid it."
+          ],
+          [
+            "VuPoint Digital Scanner is an efficient scanning tools and easy to use.",
+            "It is very good at converting old photos too.",
+            "However, it has no updated version to work with latest software.",
+            "There is also high rate charges when requesting for tech support in instance of error."
+          ],
+          [
+            "The results with this scanner are sporadic at best- there are many problems with the software drivers and the stringent system requirements that come along with it.",
+            "It does not work with the most recent versions of Windows, and the company charges for tech support calls."
+          ]
+        ]
+      ],
+      "gen_summ": [
+        [
+          "This is a great scanner.",
+          "It is easy to use and easy to set up.",
+          "The software that comes with it does not work with Windows Vista.",
+          "It would be nice if it was a little more user friendly, but for the price it can't be beat."
+        ]
+      ],
+      "rouge": [
+        {
+          "rouge1": {
+            "p": 0.34027777777777785,
+            "r": 0.35581251927227875,
+            "f": 0.3478452479861287
+          },
+          "rouge2": {
+            "p": 0.09219858156028367,
+            "r": 0.09565949348558045,
+            "f": 0.09389293891397676
+          },
+          "rougeL": {
+            "p": 0.21527777777777776,
+            "r": 0.22453832185562064,
+            "f": 0.21979634512958213
+          }
+        }
+      ],
+      "true_props": [
+        {
+          "len": -8.333333015441895,
+          "rating": 0.0,
+          "rouge": [
+            0.21004724502563477,
+            0.030859703198075294,
+            0.130384162068367
+          ],
+          "pov": [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ]
+        }
+      ],
+      "pred_props": [
+        {
+          "len": 0.4685874581336975,
+          "rating": 0.08268585801124573,
+          "rouge": [
+            0.26433268189430237,
+            0.029979927465319633,
+            0.15807080268859863
+          ],
+          "pov": [
+            0.010201350785791874,
+            2.510262856958434e-05,
+            0.9897662997245789,
+            7.211047432065243e-06
+          ]
+        }
+      ],
+      "inp_rev": [
+        [
+          [
+            "I recently bought this film and slide scanner to scan my grandfather's slide collection.",
+            "It bleaches out the image with too much light.",
+            "I tried changing the settings to improve the image quality, but had no luck.",
+            "The company ArcSoft charges $10.00 per phone call for tech support.",
+            "You are better off making the investment on a nicer quality scanner."
+          ],
+          [
+            "* * not reccommended * * purchased as a gift in august.",
+            "Opened a week ago.",
+            "Spent the last week trying to get win XP to recognise the vu point scanner.",
+            "Many drivers and reloads later all I have is a little black box with a red light and a message from Windows that says' usb device not recognised '."
+          ],
+          [
+            "I used the vuPoint digital scanner to scan over 1,200 35 mm negatives and about a dozen slides and found this gadget a most user-friendly and efficient tool.",
+            "I even managed to upload a few black and white negatives from 1963.",
+            "I recommend the product highly."
+          ],
+          [
+            "While the software was good for Windows XP and vista, I now have Windows 7 and would like to have software for the newer operating system.",
+            "The company prefers to sell other products rather than update their software.",
+            "I can't see recommending this product in today's market."
+          ],
+          [
+            "While most equipment will work with more modern versions of Windows than were available when manufactured this is not true with this scanner.",
+            "Requires Windows XP means it won't work with earlier or later.",
+            "Its on its way back for a refund."
+          ],
+          [
+            "I found the vuPoint scanner not acceptable and I am still waiting for a replacement.",
+            "My contacts with vuPoint were helpful but the equipment still did not produce acceptable images.",
+            "My contact with the seller has been sporadic, at best, and a replacement unit has not been delivered.I an not anxious to deal with these providers again."
+          ],
+          [
+            "Product is very easy to use.",
+            "Does a great job converting my slide and photo negatives to digital format.",
+            "Touch-up and enhance program gave me just what I needed to clean up and enhance some of the scans, company was great to work with!",
+            "!"
+          ],
+          [
+            "Its not worth the time it takes to get the negative to fit in the holders they give you.",
+            "I'd much rather buy a HP flat bed scanner that lets you see the final photo image and not just an image of the negative.",
+            "It takes to much time and isn't worth the money."
+          ]
+        ]
+      ]
+    },
+    "B000EB7OTU": {
+      "gold_summs": [
+        [
+          [
+            "This is a sturdy, durable backpack that's functional and comfortable.",
+            "There's room for an SLR- sized camera, and also room for a few personal effects, although it does lack much room for extra equipment.",
+            "Will work perfectly for a casual day trip."
+          ],
+          [
+            "This is a comfortable camera backpack that is able to hold one camera and a few accessories.",
+            "The sides can be used for personal items if needed.",
+            "While the straps and back are padded, there is no padding on the interior bottom of the backpack.",
+            "It is comfortable to wear even though it is a little smaller than expected.",
+            "The price is okay."
+          ],
+          [
+            "This backpack is compact, durable and can hold a camera along, multiple lenses and has space for other accessories.",
+            "It's a solid bag for outings and is comfortable with a padded back and padded straps.",
+            "However, the bottom of the bag lacks padding which means less protection when setting the bag down.",
+            "Overall, a good quality backpack which is recommended."
+          ]
+        ]
+      ],
+      "gen_summ": [
+        [
+          "This bag is a great value for the money.",
+          "It has plenty of room for all of the camera gear and lenses.",
+          "It is well made and has a lot of pockets.",
+          "The only thing that would make it better is if it had a shoulder strap.",
+          "Otherwise, it's a great camera bag."
+        ]
+      ],
+      "rouge": [
+        {
+          "rouge1": {
+            "p": 0.36419753086419754,
+            "r": 0.34831925815532366,
+            "f": 0.3540266496788236
+          },
+          "rouge2": {
+            "p": 0.05660377358490567,
+            "r": 0.05385513044927898,
+            "f": 0.05487901329571202
+          },
+          "rougeL": {
+            "p": 0.2222222222222222,
+            "r": 0.2154054203234531,
+            "f": 0.21736450804773785
+          }
+        }
+      ],
+      "true_props": [
+        {
+          "len": 6.041666507720947,
+          "rating": 0.0,
+          "rouge": [
+            0.24841970205307007,
+            0.03307025507092476,
+            0.15038873255252838
+          ],
+          "pov": [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ]
+        }
+      ],
+      "pred_props": [
+        {
+          "len": 1.3584762811660767,
+          "rating": 0.07407648861408234,
+          "rouge": [
+            0.2801654636859894,
+            0.03619333356618881,
+            0.17227721214294434
+          ],
+          "pov": [
+            0.012450000271201134,
+            4.4181975681567565e-05,
+            0.9874880313873291,
+            1.7836515326052904e-05
+          ]
+        }
+      ],
+      "inp_rev": [
+        [
+          [
+            "Since I purchased this backpack a month ago, I have used it several times.",
+            "It protects my new SLR camera and I can still put water bottles on the side, food and a jacket inside.",
+            "Additionally, it is very comfortable to wear.",
+            "I highly recommend it."
+          ],
+          [
+            "I have this same model purchased from B & H. this one through Amazon is missing any sort of padding at the bottom of the bag.",
+            "Basically your camera is sitting right on the ground with a thin layer in between it and any surface.",
+            "Ridiculous and disappointing."
+          ],
+          [
+            "The main clasp for the bottom part isn't perfect... it's slightly bent and requires some manipulation to 'click.'",
+            "The tripod's great, the cleaning kit's great.",
+            "Be careful about that front clasp.",
+            "It was shipped quickly though."
+          ],
+          [
+            "I like this bag very much, it can hold my SLR body along with 2 lens, even with one 70-300mm, although bit hard to fit in well.",
+            "I would expect it little bit bigger, however current size looks perfect if carry out for causal travel.",
+            "And the bag is good quality and solid.",
+            "Nice backpack."
+          ],
+          [
+            "I found that this was too small for my d90, 70-300mm and 18-105mm.",
+            "While it all fit in the bottom of the backpack, there was really no room to spare for future equipment.",
+            "I wanted to use the top for personal stuff, so that I did not want to put camera equipment up there."
+          ],
+          [
+            "I recently bought Tamrac adventure 7 backpack for my Nikon d80, and I used it during my vacation trip.",
+            "I like it very much.",
+            "It is well designed, the material made is durable, and practical pockets to put your camera accessories.",
+            "I recommend this backpack.",
+            "You'll get your money's worth."
+          ],
+          [
+            "I had at least two camera bags before this one, and never found the perfect fit.what can I say...",
+            "I just love this backpack, is comfortable, excellent size and does not look as if you were bringing a super camera.I would buy it again and strongly recommend this model"
+          ],
+          [
+            "Great backpack!",
+            "It is well made, padded straps and back.",
+            "I have a Canon 20D with grip and about four smaller lenses in the bottom.",
+            "I do have to keep my Canon 70-200 2.8L in the top section with a lens wrap around it."
+          ]
+        ]
+      ]
+    },
+    "B000BYGGBW": {
+      "gold_summs": [
+        [
+          [
+            "This 100 pack of DVDs contains many high quality DVDs although some DVDs may be unusable or low quality.",
+            "The DVDs are not actually gold, they are silver.",
+            "The pack is recommended if large quantities of DVDs are needed on a usual basis.",
+            "Otherwise, a smaller pack may be more suitable."
+          ],
+          [
+            "Unlike the description of gold-colored discs, these HP DVD+R discs are actually silver in color, probably because HP stopped producing the gold-color discs.",
+            "The reliability of HP DVD+R discs is generally high, but may be hit-or-miss with these discs specifically.",
+            "Despite the caveats, these discs are generally recommended."
+          ],
+          [
+            "These DVDs are good quality from a reliable brand.",
+            "However, they are the silver coated, not gold coated version.",
+            "The packs may contain some coasters or an occasion disc which won't play.",
+            "For casual burners this can be negated by the large number of DVDs available in each pack."
+          ]
+        ]
+      ],
+      "gen_summ": [
+        [
+          "These DVD's are not the best quality, but for the price they can't be beat.",
+          "They are not as good as some of the other DVD's on the market, but at the price, they are well worth it.",
+          "I have had no problems with them and they do what they are supposed to do.",
+          "Buy them if you buy them"
+        ]
+      ],
+      "rouge": [
+        {
+          "rouge1": {
+            "p": 0.24338624338624337,
+            "r": 0.2982861292665214,
+            "f": 0.26798806258517477
+          },
+          "rouge2": {
+            "p": 0.02150537634408602,
+            "r": 0.026938775510204082,
+            "f": 0.02391677391677392
+          },
+          "rougeL": {
+            "p": 0.15343915343915343,
+            "r": 0.18721859114015973,
+            "f": 0.168608686074918
+          }
+        }
+      ],
+      "true_props": [
+        {
+          "len": 4.541666507720947,
+          "rating": 0.0,
+          "rouge": [
+            0.21039201319217682,
+            0.0179938655346632,
+            0.1317005753517151
+          ],
+          "pov": [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ]
+        }
+      ],
+      "pred_props": [
+        {
+          "len": 2.2594215869903564,
+          "rating": 0.1016978919506073,
+          "rouge": [
+            0.2668846845626831,
+            0.02870638109743595,
+            0.15672661364078522
+          ],
+          "pov": [
+            0.018061213195323944,
+            4.17718620155938e-05,
+            0.9818800687789917,
+            1.7036369172274135e-05
+          ]
+        }
+      ],
+      "inp_rev": [
+        [
+          [
+            "Yes, HP dvd's are dvd's for the better.",
+            "Better price.",
+            "Better quality.",
+            "I have used these over the years for many different projects and the quality is there and so is the price.",
+            "I have had trouble with some other brand named dvd's, but not with hp."
+          ],
+          [
+            "Ive always bought the HP DVD + r 100 pk and find that they go a long way, seldom do I find a coaster in the pack... hwever his was my first time purchasing the 100 pk from amazon, but so far so good."
+          ],
+          [
+            "I have had a ton a problems with these discs.",
+            "After about 30 minutes of a dvd, it begins to get choppy and become unviewable.",
+            "Looking at the burn side of the disc, there is a area where you can see the burning stopped and I guess picked again.",
+            "Do not recommend."
+          ],
+          [
+            "The box was too big and allow the spindle to bounce around in box and plastic covering spindle which keeps the blank DVD in place was broken and DVD were off the spindle.",
+            "If that is the only size boxes have should put more packing so it will not allow spindle to move at all."
+          ],
+          [
+            "Produces about 25% coasters, and another 10-15% that won't play on DVD players.",
+            "The first half was about what I expected, a few coasters, a couple minor errors.",
+            "The second half I was lucky to get maybe 5 that worked flawlessly.",
+            "No good!"
+          ],
+          [
+            "After receiving this DVD + r, I think I should order the 50 piece spindle.",
+            "I did not burn too often.",
+            "I believe it is enough for 2 years.",
+            "I tried a couple of discs, anyway, like it."
+          ],
+          [
+            "Been purchasing only HP DVD + r media for 8 years or more.",
+            "Always got the HP branded gold coated.",
+            "Made by cmc, with ID of cmcmagm01001.",
+            "This batch is not gold as portrayed in the photo, it's silver coated, but still the same id."
+          ],
+          [
+            "Vendor describes the product as being gold in color.",
+            "It is not it is silver.",
+            "I know that HP no longer manufactures the gold version.But was hoping this vendor had some gold version of DVD + r in it inventory.",
+            "They need change the picture and description to silver instead of gold."
+          ]
+        ]
+      ]
+    },
+    "B00BOZCSQE": {
+      "gold_summs": [
+        [
+          [
+            "This camera produces high-quality pictures and is the perfect size, making it very easy to carry.",
+            "It has an impressive low light option that can be helpful in areas where flash is not allowed as well as a variety of configurations and features.",
+            "Overall it's a fairly priced, decent starter camera."
+          ],
+          [
+            "This high quality camera is a low cost alternative to a DSLR.",
+            "The camera's easy to use but still has many useful features like low light and auto presets.",
+            "It's a good size for carrying around and can be used in different lightings.",
+            "SD card sold separately.",
+            "Highly recommended for high quality professional photos."
+          ],
+          [
+            "Consumers love this camera for its small size (fits in a pocket), ease of use, clarity of the pictures, and the low light feature.",
+            "The camera has auo presents and some other options.",
+            "A limited internal memory makes an SD card a must.",
+            "One complaint about the battery was registered.",
+            "Highly recommended."
+          ]
+        ]
+      ],
+      "gen_summ": [
+        [
+          "This camera is a great camera for the price.",
+          "It takes great pictures and is easy to use.",
+          "The only drawback is that the battery life is not as good as the camera that comes with the camera.",
+          "It would be nice if it had a battery life to last longer.",
+          "Overall, it's a good camera."
+        ]
+      ],
+      "rouge": [
+        {
+          "rouge1": {
+            "p": 0.32748538011695905,
+            "r": 0.34795079134701784,
+            "f": 0.3373317489254812
+          },
+          "rouge2": {
+            "p": 0.125,
+            "r": 0.13244663832899126,
+            "f": 0.12858341207250865
+          },
+          "rougeL": {
+            "p": 0.23976608187134504,
+            "r": 0.25514893911120323,
+            "f": 0.24716565672967394
+          }
+        }
+      ],
+      "true_props": [
+        {
+          "len": 5.291666507720947,
+          "rating": 0.0,
+          "rouge": [
+            0.2918700575828552,
+            0.06191832199692726,
+            0.16924692690372467
+          ],
+          "pov": [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ]
+        }
+      ],
+      "pred_props": [
+        {
+          "len": 2.1786744594573975,
+          "rating": 0.06241314113140106,
+          "rouge": [
+            0.2843911945819855,
+            0.04047011211514473,
+            0.17943453788757324
+          ],
+          "pov": [
+            0.015289856120944023,
+            7.183029083535075e-05,
+            0.9845980405807495,
+            4.025162343168631e-05
+          ]
+        }
+      ],
+      "inp_rev": [
+        [
+          [
+            "Of the fact that an SD card is not included with this camera.",
+            "It is essential (you can only take 2 pix with the camera's internal memory) and it is standard practice to include one with a camera.",
+            "So add C. $25 to any advertised price that you see here.",
+            "Camera itself is fine."
+          ],
+          [
+            "Sharp pictures.",
+            "Impressed with the low light capability.",
+            "Almost as close as my DSLR.",
+            "Ample shot configuration via auto presets as well as some options.",
+            "Would have loved to have a bigger display screen, or one with swiveling capability.",
+            "Adequate flash for indoor and night shot settings.",
+            "Sturdy and slips easily into pocket."
+          ],
+          [
+            "I bought this camera based on consumer reports review.",
+            "It has met most of the requierments.",
+            "Its picture quality is better than the Cannon 110 HS that it is replacing.",
+            "I had to glue a riser on the on / off button since it was too small for my thumb"
+          ],
+          [
+            "Have only used the camera a short time but am really impressed with all the features and marvel at the detail of almost any type photo situation.",
+            "The low light feature is outstanding and will be very helpful in museums and other venues where flash is not allowed.",
+            "Overall I love this camera."
+          ],
+          [
+            "I have high-bride, mirrorless camera which is over 700bucks, but this camera, Nikon one is almost as good as my fancy mirrorless camera..",
+            "I just love it!",
+            "Light, easy to carry around and pictures are just great.",
+            "Satisfied."
+          ],
+          [
+            "Love this camera for quality picture taking and size.",
+            "Very easy to use and takes professional photos.",
+            "I like to take my camera everywhere and this is the perfect size.",
+            "It's a great first camera to explore with before investing in a DSLR."
+          ],
+          [
+            "After looking in the consumer reports for a new camera I came along this one.",
+            "It was number one on the list.It was a good price so I bought it.",
+            "It takes a little time to learn about the choices and setting up but then it's easy to use.",
+            "I love my camera."
+          ],
+          [
+            "The battery is constantly malfunctioning making the camera unusable.",
+            "I was on a once-in-a-lifetime trip in Malaysia in August and this happened constantly.",
+            "The on / off button is also malfinctioning, besides that is very poorly designed.",
+            "What good are all kinds of features when their usability is way below par!",
+            "?"
+          ]
+        ]
+      ]
+    }
+  },
+  "health_personal_care": {
+    "B002BJU8YQ": {
+      "gold_summs": [
+        [
+          [
+            "This is a good battery that is easy to install and works as a replacement for failed batteries.",
+            "The price is good and a much cheaper alternative to use as a replacement.",
+            "While there are instances of DOA batteries, most experiences are positive.",
+            "With a good price and easy installation this battery is recommended."
+          ],
+          [
+            "The battery offers a good affordable value and works as well as one would expect.",
+            "Overall, shipping time is faster than expected and customer service is very reasonable when any issues do arise."
+          ],
+          [
+            "This replacement battery is the same size used in many home alarms, computer power backups, etc.",
+            "It is sized correctly, works well, and priced right.",
+            "However, sometimes a battery shows up dead on arrival, and sometimes the vendor may substitute a different brand of unknown quality, so caution is advised when ordering."
+          ]
+        ]
+      ],
+      "gen_summ": [
+        [
+          "This battery was an exact replacement for the original battery that came with the ups unit.",
+          "It was easy to install and holds a charge for a long time.",
+          "It would be nice to have a longer battery life, but for the price, it was well worth it.",
+          "Would recommend it to anyone needing a replacement battery."
+        ]
+      ],
+      "rouge": [
+        {
+          "rouge1": {
+            "p": 0.23976608187134504,
+            "r": 0.28343261676595005,
+            "f": 0.25737847939682806
+          },
+          "rouge2": {
+            "p": 0.05357142857142857,
+            "r": 0.05685041312122333,
+            "f": 0.05516019320357826
+          },
+          "rougeL": {
+            "p": 0.1812865497076023,
+            "r": 0.21337304670638002,
+            "f": 0.1942952126438365
+          }
+        }
+      ],
+      "true_props": [
+        {
+          "len": -1.9583333730697632,
+          "rating": 0.0,
+          "rouge": [
+            0.23818135261535645,
+            0.027043573558330536,
+            0.1524207890033722
+          ],
+          "pov": [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ]
+        }
+      ],
+      "pred_props": [
+        {
+          "len": 0.8208712339401245,
+          "rating": 0.031111150979995728,
+          "rouge": [
+            0.27713873982429504,
+            0.031042402610182762,
+            0.16105926036834717
+          ],
+          "pov": [
+            0.011382512748241425,
+            2.964546365546994e-05,
+            0.9885791540145874,
+            8.624228939879686e-06
+          ]
+        }
+      ],
+      "inp_rev": [
+        [
+          [
+            "I was unsure of replacing this battery from a backup power supply from goodwill.",
+            "But the price was right, the battery can in good condition, and worked as advertised.",
+            "I'd say i'm totally happy with this item and will recommend it to anyone else looking for this type."
+          ],
+          [
+            "Was not the brand as advertised.",
+            "Was Genesis and not Yuasa (perhaps the same manufacturer).",
+            "Lasted for 2 years in my APC ups.",
+            "The plastic case is now bulging.",
+            "I just ordered another Yuasa from a different company.",
+            "Let's see what arrives."
+          ],
+          [
+            "We ordered this battery to replace the one that went bad in our home alarm system.",
+            "It was a perfect match, works well, and arrived before the expected delivery date.",
+            "The price was also a great deal!",
+            "I would definitely buy from this seller again."
+          ],
+          [
+            "It seems that many of the buyers out there reports defective dead on arrival battery from various replacement purchases.",
+            "This is the case with mine, as it does not hold a charge.its going to cost me about the same just to return it to the seller.wish there was better quality control"
+          ],
+          [
+            "Simple to install as a direct drop-in replacement for the existing / failing battery.",
+            "Wish there was a return for the dead cell to allow for proper recycling, but I found a local store that would take the dead one and do the right thing with it..."
+          ],
+          [
+            "This battery is of good quality and holds a charge quite well.",
+            "Alarm companies charge an arm and a leg for a battery that costs them only this much and are of similar specs.",
+            "Save yourself a bunch of money and do this replacement yourself.This name brand is a name that we are all familiar with and can trust"
+          ],
+          [
+            "Great value for a quality battery.",
+            "Fast shipper and superb customer service.",
+            "Purchased for a gate opener.",
+            "Have had for only 3 weeks but so far, have met my needs and expectations.",
+            "Would definitely recommend and purchase from this vendor again."
+          ],
+          [
+            "Works great.",
+            "Great price.",
+            "Bought it to replace the dead battery on my ups for my computer.",
+            "The size appears to be a common size because it fit perfectly.",
+            "Now I wish I swapped batteries on my old ups instead of filling up the land fill.good product.",
+            "Go for it."
+          ]
+        ]
+      ]
+    },
+    "B000EXUB3E": {
+      "gold_summs": [
+        [
+          [
+            "Can be a little pricey at $3.80 per bar, but these NuGo bars offer a low calorie, low glycemic index snack that is healthy and still taste great.",
+            "Taste is reminiscent of Rice Krispie treats, especially the variety with vanilla frosting.",
+            "Some stores don't carry these bars, but they are available easily online."
+          ],
+          [
+            "At just 170 calories each, NuGo bars are nice to have for a meal or a snack.",
+            "The texture is similar to Rice Krispie Treats and they even taste like them.",
+            "It's hard to believe this is a healthy, soy-based food!",
+            "They're great to keep handy in case a quick pick-me-up is needed."
+          ],
+          [
+            "Excellent tasting protein bar, some flavors even taste like dessert.",
+            "Perfect snack for both children and adults.",
+            "Not only are NuGo bars delicious, they are also a healthy snack or meal replacement.",
+            "They can be a difficult to find in stores or in a particular flavor however,  they are easy to order online.",
+            "NuGo bars are well worth the higher price ."
+          ]
+        ]
+      ],
+      "gen_summ": [
+        [
+          "These bars are a great snack bar.",
+          "They taste good and have a good amount of protein.",
+          "They do not have a lot of protein in them so they are not as sweet as some protein bars, but for the price, they are well worth it."
+        ]
+      ],
+      "rouge": [
+        {
+          "rouge1": {
+            "p": 0.41304347826086957,
+            "r": 0.32581838737859087,
+            "f": 0.36411763031083844
+          },
+          "rouge2": {
+            "p": 0.07407407407407407,
+            "r": 0.05769980506822612,
+            "f": 0.0648332060096766
+          },
+          "rougeL": {
+            "p": 0.2463768115942029,
+            "r": 0.19489353683813834,
+            "f": 0.21752698274859839
+          }
+        }
+      ],
+      "true_props": [
+        {
+          "len": 5.75,
+          "rating": 0.0,
+          "rouge": [
+            0.2520972788333893,
+            0.04570392519235611,
+            0.14587852358818054
+          ],
+          "pov": [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ]
+        }
+      ],
+      "pred_props": [
+        {
+          "len": -2.6689047813415527,
+          "rating": 0.016231268644332886,
+          "rouge": [
+            0.279644250869751,
+            0.03368678689002991,
+            0.15569233894348145
+          ],
+          "pov": [
+            0.007581606041640043,
+            1.9434275600360706e-05,
+            0.9923961758613586,
+            2.8406261662894394e-06
+          ]
+        }
+      ],
+      "inp_rev": [
+        [
+          [
+            "I love these protein bars in the vanilla flavor.",
+            "They taste like rice krispies treats with vanilla frosting.",
+            "I can't believe they are actually 'good' for you.",
+            "I usually try to stay away from processed foods, but these are my guilty pleasure -- I eat them for dessert all the time.",
+            "I like them much better than the chocolate NuGo bars."
+          ],
+          [
+            "NuGo bars are great for breakfast, lunch or a snack.",
+            "I keep them in my desk at work and my husband keeps them in his car.",
+            "Eat them with a tall glass of water and they will keep you satisfied for hours.",
+            "They are low-glycemic and taste great.",
+            "I'm so glad I can order these from amazon!"
+          ],
+          [
+            "Apart from the obvious nutritional value, the taste was surprisingly better than I anticipated.",
+            "Normally, if I find soy-based nutritional bars tend to have a chalky or tree-bark-like texture and taste.",
+            "I dare say, the texture reminds me of a healthy-not-too-sweet 'rice krispy treat'."
+          ],
+          [
+            "I tried these for the first time at work, and loved them.",
+            "But they sell them for $3.80 a bar!",
+            "And even though they are totally worth it, I wanted to purchase my own box.",
+            "My kids even got to try them and they really like them too!",
+            "I will be ordering two boxes next time around!"
+          ],
+          [
+            "Love the bar, love the taste, love the 170 calories... love it, my husband and son love it too---we eat way too many of them but I dont feel guilty as it is a great and healthy snack on the go!!",
+            "This one is my favorite of all!"
+          ],
+          [
+            "I find these a little chewy (my jaw gets tired towards the very end), but that could just be me.",
+            "I love these.",
+            "I think the flavor is good.",
+            "They keep me feeling fuller longer than other brands that i've had.",
+            "My work has them and I loved them so much I ended up coming here to get a whole box."
+          ],
+          [
+            "Very good!",
+            "We all eat these and other bars in our house for meal replacements.",
+            "These are one of their favorites but they are very sweet!",
+            "In comparison, there are bars that have better ingredients but this one is good!",
+            "They remind me of rice krispy treats!"
+          ],
+          [
+            "I love this flavor of NuGo bars.",
+            "Not many grocery stores carry it, so when they do I buy all they have on the shelves.",
+            "When I am out of them I have to order them online.",
+            "I always keep one or two in my purse for when I am out and hungry and don't care to buy junk food."
+          ]
+        ]
+      ]
+    },
+    "B000EZUQK0": {
+      "gold_summs": [
+        [
+          [
+            "The tablets provide a good pump when they actually decide to stay tablets.",
+            "They tend to seemingly break apart in the container, just leaving powder behind.",
+            "It is at a great price, at least."
+          ],
+          [
+            "These are great for many things including libido and workouts.",
+            "One downfall of these are they they are difficult to take anywhere because the tablets are a bit loose and turn to powder making them tough to take."
+          ],
+          [
+            "These pills work extremely well when it comes to vascularity and energy.",
+            "Just make sure to store them in the container they come in, otherwise there is a chance they could start to disintegrate.",
+            "Overall, the quality appears to be excellent and on par with other brands."
+          ]
+        ]
+      ],
+      "gen_summ": [
+        [
+          "These pills are a great value for the price.",
+          "They are easy to swallow and do not take up a lot of space.",
+          "The only downside is that they don't seem to last as long as other pills, but that's to be expected."
+        ]
+      ],
+      "rouge": [
+        {
+          "rouge1": {
+            "p": 0.2962962962962963,
+            "r": 0.338712864765167,
+            "f": 0.3147582072925715
+          },
+          "rouge2": {
+            "p": 0.03787878787878788,
+            "r": 0.042611781742216526,
+            "f": 0.03993372882261771
+          },
+          "rougeL": {
+            "p": 0.19259259259259257,
+            "r": 0.21643282172891554,
+            "f": 0.20301127459756474
+          }
+        }
+      ],
+      "true_props": [
+        {
+          "len": -11.291666984558105,
+          "rating": 0.0,
+          "rouge": [
+            0.17530423402786255,
+            0.01119298581033945,
+            0.11800733208656311
+          ],
+          "pov": [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ]
+        }
+      ],
+      "pred_props": [
+        {
+          "len": -1.7303271293640137,
+          "rating": 0.07621084153652191,
+          "rouge": [
+            0.2614247500896454,
+            0.026599664241075516,
+            0.14849013090133667
+          ],
+          "pov": [
+            0.007669985294342041,
+            1.558673284307588e-05,
+            0.9923120141029358,
+            2.4527021196263377e-06
+          ]
+        }
+      ],
+      "inp_rev": [
+        [
+          [
+            "The capsules must be kept in the original container with the drying agent.if you place them in your own container for later use - you will find a pile of powder and a paper shell.",
+            "I wouldn't want to guess their shelf-life.and don't expect a notice on the label!"
+          ],
+          [
+            "I have only used this for 2 weeks and I have noticed a huge difference in my workouts.",
+            "Also my veins are popping out!!!",
+            "I highly recommend this product!",
+            "Works way better than every other high priced no product."
+          ],
+          [
+            "Unlike the other user.",
+            "I think these pills are of good quality.",
+            "I often take a couple out of the container and pack them with my lunch or for work and have not had a problem with them turning into powder.great price and good quality."
+          ],
+          [
+            "Some of these tablets blow up for me as well.",
+            "When I tried to use the the blown up loose tablets... severely burned my tongue... like battery acid!",
+            "Http: / / www.amazon.com / gp / product / b0013ovx3u / ref = cm _ cr _ rev _ prod _ img"
+          ],
+          [
+            "Well I cant really say how they work since I got the 500mg but order the 1000mg so im taking 2 500 not really filling a diffrents yet I know this take time right about the end of the botle I will see a diffrents"
+          ],
+          [
+            "I saw one reviewer post the tablets bust and that is true.",
+            "The bottle comes with 120 tablets and I got to use about half of them normally the rest I had to strip the tablet layer and dump into my pre workout.",
+            "I really like now products but this one was a bust literally.",
+            "Go with the cheaper Walgreens brand those do not break open."
+          ],
+          [
+            "I bought this for my sister who was having... ummm... shall we say desire problems.",
+            "Apparently your libido pretty much disappears on some antidepressants.",
+            "This, according to her, worked like a charm and brought hers back.",
+            "I would consider buying it for that purpose."
+          ],
+          [
+            "I could deal with the large size of the pill, but when I put them in my weekly pill case, the pills expanded and disintegrated into a powdery heap!",
+            "I read the label and it didn't say anything about storing in original container.",
+            "Very upset with this product.",
+            "Not sure if this supplement even helps."
+          ]
+        ]
+      ]
+    },
+    "B000YA8NYQ": {
+      "gold_summs": [
+        [
+          [
+            "Bonine tablets are an excellent choice for preventing motion sickness.",
+            "They effectively prevent motion sickness from cars, boats, and amusement park rides.",
+            "A bonus: the chewable tablets do not cause drowsiness."
+          ],
+          [
+            "This is a very effective option for dealing with motion sickness.",
+            "It can be used for car rides, amusement parks and even multi-day cruises, all without the side effects seen with Dramamine.",
+            "This is an easy to take pill which won't cause drowsiness often works with one dose.",
+            "It is a highly recommended product for prevention of motion sickness."
+          ],
+          [
+            "This medication is a true lifesaver when it comes to motion sickness.",
+            "The tablets are easy to take and easy to travel with and it seems to cause less drowsiness when compared to other medications of this type.",
+            "It is good to always have this on hand just in case when traveling."
+          ]
+        ]
+      ],
+      "gen_summ": [
+        [
+          "This is a great product at a great price.",
+          "It is easy to use and easy to take.",
+          "The pills are easy to swallow and do not take up a lot of space.",
+          "The price is great for a product that will last a long time.",
+          "Would recommend this product to anyone who suffers from nausea or sickness."
+        ]
+      ],
+      "rouge": [
+        {
+          "rouge1": {
+            "p": 0.27586206896551724,
+            "r": 0.3278586828295977,
+            "f": 0.2946120634157647
+          },
+          "rouge2": {
+            "p": 0.07602339181286549,
+            "r": 0.08464052287581698,
+            "f": 0.0793627402822805
+          },
+          "rougeL": {
+            "p": 0.18965517241379312,
+            "r": 0.21472155554651587,
+            "f": 0.1988446451103424
+          }
+        }
+      ],
+      "true_props": [
+        {
+          "len": -3.875,
+          "rating": 0.0,
+          "rouge": [
+            0.2125704437494278,
+            0.027410639449954033,
+            0.1337404102087021
+          ],
+          "pov": [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ]
+        }
+      ],
+      "pred_props": [
+        {
+          "len": -0.1370674967765808,
+          "rating": 0.030045047402381897,
+          "rouge": [
+            0.2694384455680847,
+            0.03420296311378479,
+            0.16134880483150482
+          ],
+          "pov": [
+            0.008591387420892715,
+            2.9953756893519312e-05,
+            0.9913700819015503,
+            8.534035259799566e-06
+          ]
+        }
+      ],
+      "inp_rev": [
+        [
+          [
+            "This is rated the best pill for motion sickness.",
+            "Dramamine pills are really strong and can make you sleepy.",
+            "You will also hear about ginger.",
+            "The bad thing about ginger is if you really throw up its no going to be good, I mean tasting the ginger.",
+            "Hope this help everyone."
+          ],
+          [
+            "I have such severe motion sickness, that I can't even sleep on a ship!",
+            "But I was able to enjoy my 5 day / 4 night cruise, as long as I left one of these in my mouth to dissolve.",
+            "I even slept with one!",
+            "I highly recommend this product."
+          ],
+          [
+            "I brought this along my 7 night cruise trip - works great even though I tend to forget taking it until I already feel the motion sickness.",
+            "My cruise happened to meet some heavy showers and I felt no dizziness or sickness except the constant waving feeling:) definitely will bring it along next time I go to cruise again or plan to ride roller coasters."
+          ],
+          [
+            "This is my favorite type of motion sick medicine.",
+            "It doesn't make me drowsy and it works well.",
+            "The chewable tablets don't taste too bad and i'd rather chew a tablet than swallow one whole anyway.",
+            "Great product!"
+          ],
+          [
+            "I've been taking this medicine since I was a little one and it works great!",
+            "I get motion sickness so easily, but if I take one bonine, I don't get sick!",
+            "I can travel for hours in the car, ride all the looping, twisting, crazy rides at the amusement parks and not get sick!",
+            "It's wonderful."
+          ],
+          [
+            "I stopped riding on roller coasters and other rides at most amusement parks until I started taking the Bonine tablets.",
+            "Works well for me and I take it in the morning about an hour before going on any ride and I have been able to enjoy the rides with my kids!!",
+            "No more nausea and headache!!",
+            "!"
+          ],
+          [
+            "Product worked the very way it was intended.",
+            "We were on a cruise that had high seas and because we were unable to use the patches that go behind the ear, we used this as an alternative.",
+            "It worked great, no problems."
+          ],
+          [
+            "Husband and I went on week long live-aboard scuba trip.",
+            "I could not have had a good time without these.",
+            "Thank god.. it was a wonderful trip, and I did not get sea-sick at all, in a full week never leaving the small yacht we Dove from.",
+            "Recommend!"
+          ]
+        ]
+      ]
+    },
+    "B000N245Y2": {
+      "gold_summs": [
+        [
+          [
+            "A good product, compares to the original very good, for the fraction of the size.",
+            "Very convenient when traveling or living in the dorm, since the space is an issue there.",
+            "There was no power cord, so that should be kept in mind.",
+            "Much better than nose generating apps."
+          ],
+          [
+            "This sound machine is a great size for traveling and it runs on batteries.",
+            "It's made to provide a pleasant atmosphere for sleep, not to drown out loud noises.",
+            "It only has one sound effect available, rain water, which can be adjusted to go up or down in volume.",
+            "Overall, it's a good product for creating quieter sounds.",
+            "However, it's lack of options and low sound intensity makes it a bit overpriced."
+          ],
+          [
+            "This Marpac sound machine is compact and sized for travel.",
+            "It is rather limited in how the sound can be adjusted, but overall the sound itself fills the room and generally drowns out background noise.",
+            "The build quality is lower than expected for a unit of this price, so waiting for a sale is recommended."
+          ]
+        ]
+      ],
+      "gen_summ": [
+        [
+          "This is a great product for the price.",
+          "The sound quality is good and the sound is good.",
+          "The only problem is that it is not loud enough for a small room.",
+          "It is loud enough to drown out background noise, but not very loud.",
+          "Overall, it's a good product and would recommend it to anyone."
+        ]
+      ],
+      "rouge": [
+        {
+          "rouge1": {
+            "p": 0.40350877192982454,
+            "r": 0.382576788291074,
+            "f": 0.3898418143701163
+          },
+          "rouge2": {
+            "p": 0.125,
+            "r": 0.1152610944277611,
+            "f": 0.11899766899766899
+          },
+          "rougeL": {
+            "p": 0.2573099415204678,
+            "r": 0.24102246959389817,
+            "f": 0.24689958888072097
+          }
+        }
+      ],
+      "true_props": [
+        {
+          "len": 11.583333015441895,
+          "rating": 0.0,
+          "rouge": [
+            0.2681638300418854,
+            0.019554361701011658,
+            0.15457721054553986
+          ],
+          "pov": [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ]
+        }
+      ],
+      "pred_props": [
+        {
+          "len": 3.111300468444824,
+          "rating": 0.048930421471595764,
+          "rouge": [
+            0.2754526436328888,
+            0.03765464201569557,
+            0.17832854390144348
+          ],
+          "pov": [
+            0.02352827787399292,
+            8.744718797970563e-05,
+            0.9763267040252686,
+            5.7619366998551413e-05
+          ]
+        }
+      ],
+      "inp_rev": [
+        [
+          [
+            "I'd like to give it a review but no power adapter with cord and so on was included.",
+            "I got a plug adapter for international use, but nothing to power the unit.",
+            "I have no idea how good it is and am returning it."
+          ],
+          [
+            "Don't let the 1980's packaging fool you, this is an amazing little machine.",
+            "The sound is robust, and the ability to dial in the mixture of rain and water effects is outstanding.now... when will they release an app so I can use it on my phone at the office..."
+          ],
+          [
+            "We've used Marpac machines before and they were excellent; but this travel machine didn't make the grade.",
+            "Sound not loud enough for us and the construction didn't seem any better than the $20 ones we've used.",
+            "This was $50 +.",
+            "We returned it to amazon."
+          ],
+          [
+            "This product does not drown out sound but is a sleep conditioner.",
+            "It was purchased for my grandaughter who is going on a mission trip to Africa (it takes batteries) and to college in NC.",
+            "It is a perfect traveling size."
+          ],
+          [
+            "This machine is small enough to travel well.",
+            "It only makes one type of sound (kind of like rain) so all you can adjust is the intensity and volume.",
+            "It shorted out and would stop and start which wakes you up defeating the purpose.",
+            "It is too expensive for having no sound selections and being cheaply made."
+          ],
+          [
+            "We have a full-size analog model of the Marpac sleep mate sound conditioner, and have used it for years at home, but it's too bulky to pack.",
+            "This model is compact, and sounds pretty much like the original.",
+            "There is no repeating 'loop' of sound to drive you crazy."
+          ],
+          [
+            "We've had this for about two months and use it in our baby's nursery.",
+            "I like it so far.",
+            "The sound fills the room well.",
+            "There aren't a bunch of options in sound, but that doesn't matter at all to me.",
+            "The unit is small and does the job well.",
+            "I'd recommend it."
+          ],
+          [
+            "My husband and I use a white noise machine in our condo, and love it.",
+            "When we traveled, we never felt we slept as well without that background noise.",
+            "We have tried the free apps on our phones, but they are not as good as this."
+          ]
+        ]
+      ]
+    }
+  },
+  "home_kitchen": {
+    "B0036SGFXO": {
+      "gold_summs": [
+        [
+          [
+            "This chicken roaster works both in the oven and on the grill.",
+            "It's a great way to cook a whole chicken and has a pan underneath to catch all the drippings.",
+            "It can be used with a beer can or without, and holds a large chicken.",
+            "It's a little tall, so it may not work in all ovens and barbecue grills."
+          ],
+          [
+            "Excellent for cooking whole chickens perfectly when traditional grilling is not possible or inconvenient.",
+            "Features a collapsible design and the drip pan underneath catches any drippings making for an easy clean up, or to use for basting.",
+            "Best for medium sized chickens so it properly fits inside the oven or grill."
+          ],
+          [
+            "The product is easy to use as well, has a collapsible design, and is very sturdy.",
+            "The oven will hold a full size chicken, cooks evenly and leaves the meat moist.",
+            "Also included is a drip pan for underneath to prevent major clean ups."
+          ]
+        ]
+      ],
+      "gen_summ": [
+        [
+          "This is a great roaster.",
+          "It is easy to use and easy to clean.",
+          "It does not take up a lot of space on the grill.",
+          "The only thing that would make it better would be if it had a removable grill tray for easy cleaning.",
+          "Other than that, it's an excellent roaster."
+        ]
+      ],
+      "rouge": [
+        {
+          "rouge1": {
+            "p": 0.3333333333333333,
+            "r": 0.34010978128625186,
+            "f": 0.3348799348799349
+          },
+          "rouge2": {
+            "p": 0.06289308176100629,
+            "r": 0.06584646161540385,
+            "f": 0.06391116739364945
+          },
+          "rougeL": {
+            "p": 0.191358024691358,
+            "r": 0.19807316866140398,
+            "f": 0.19354613640327925
+          }
+        }
+      ],
+      "true_props": [
+        {
+          "len": 0.2083333283662796,
+          "rating": 0.0,
+          "rouge": [
+            0.27071452140808105,
+            0.04154663905501366,
+            0.16694776713848114
+          ],
+          "pov": [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ]
+        }
+      ],
+      "pred_props": [
+        {
+          "len": 0.8050405979156494,
+          "rating": 0.045450299978256226,
+          "rouge": [
+            0.2771152853965759,
+            0.04060201719403267,
+            0.17596562206745148
+          ],
+          "pov": [
+            0.010072527453303337,
+            4.940051803714596e-05,
+            0.9898576736450195,
+            2.0423631212906912e-05
+          ]
+        }
+      ],
+      "inp_rev": [
+        [
+          [
+            "I had in the past bought and a chicken roaster in South Africa but I now cannot find anyone who sells them.",
+            "I went on to Amazon and found this product and I have received them and am very happy with my purchase."
+          ],
+          [
+            "My husband and I use this all the time to cook whole chickens now.",
+            "We don't bother putting a beer can in it.",
+            "I've used it several times on the grill as well as in the oven.",
+            "The chicken comes out perfectly cooked and the skin nice and crispy every time!"
+          ],
+          [
+            "I like the pan under the chicken to catch the drippings, but it is awful tall.",
+            "Even using the bottom rack of my oven the chicken almost touches the broiler.",
+            "No way it would fit in our bbq.",
+            "It really makes great tasting chicken!",
+            "!"
+          ],
+          [
+            "Very easy to use and loved the way the chicken cooked.",
+            "Just another great way of cooking on your grill without worrying about having to turn it around.",
+            "You put it on your grill and go do your side dishes while your chicken is done."
+          ],
+          [
+            "Works well, a little small thou.",
+            "I usually get the biggest roaster chicken I can find (usually 6-7lbs) but this seems a little small for that size chicken (5 - 6lbs would fit better).",
+            "However, love the drip pan feature, it collects all the juices so you can baste!",
+            "For the price, I would definately recomend it!"
+          ],
+          [
+            "Five stars for the collapsible design.",
+            "It holds a normal size beer can but not a bottle.",
+            "I only use it as a stand (humidity is irrelevant for a Char-Broil infrared cooker), and it is very solid.",
+            "Goes right on the rack or grill without any fear of tipping, and holds a large chicken."
+          ],
+          [
+            "This worked okay, but it didn't make much change for our grilling.",
+            "I thought my husband would love it, but he was pretty apathetic... and we've only used it once - as it's a bit cumbersome.",
+            "So, I guess it's okay but not 'necessary.'"
+          ],
+          [
+            "This is a perfect substitute for doing rotisserie chicken in the winter when the Barbie won't heat up to temp.",
+            "I use two of them at the same time to put two chickens in the oven at 475 degrees coated with Sams rotisserie rub and it turns out perfect every time... no beer can needed- the chickens stay moist on there own."
+          ]
+        ]
+      ]
+    },
+    "B00442C8RS": {
+      "gold_summs": [
+        [
+          [
+            "This is a great ice maker that works quickly, is easy to use, and can be used in a variety of situations (camping, poolside, parties, etc).",
+            "It is durable and reliable, even in extreme temperatures.",
+            "Though it is different from a regular ice machine, it can be used to have ice 24/7."
+          ],
+          [
+            "Awesome ice maker that is easy to use, makes ice quickly, and is much more reliable than most ice makers built into refrigerators.",
+            "Works well for parties and entertaining, RV traveling, as well as to save money not needing to buy ice from the store.",
+            "It will eventually pay for itself!"
+          ],
+          [
+            "This ice maker performs very well and consistently produces nice, large cubes of ice.",
+            "It is well built and lasts for many years of use without issue even in extreme temperatures.",
+            "Useful for parties, entertaining and camping, it's simple to operate, fast and efficient but does need to be manually emptied and cleaned."
+          ]
+        ]
+      ],
+      "gen_summ": [
+        [
+          "This is a great ice maker.",
+          "It's easy to use, easy to clean, and easy to store.",
+          "The only thing that would make it better is if it had a timer to turn it off when it's not in use.",
+          "Other than that, it does exactly what it's supposed to do."
+        ]
+      ],
+      "rouge": [
+        {
+          "rouge1": {
+            "p": 0.3148148148148148,
+            "r": 0.32320055904961564,
+            "f": 0.31890916283439646
+          },
+          "rouge2": {
+            "p": 0.07547169811320754,
+            "r": 0.07745041122399612,
+            "f": 0.07644053652480104
+          },
+          "rougeL": {
+            "p": 0.23456790123456792,
+            "r": 0.24017895068579495,
+            "f": 0.23731230117522953
+          }
+        }
+      ],
+      "true_props": [
+        {
+          "len": 9.291666984558105,
+          "rating": 0.0,
+          "rouge": [
+            0.23736687004566193,
+            0.03082776442170143,
+            0.15116463601589203
+          ],
+          "pov": [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ]
+        }
+      ],
+      "pred_props": [
+        {
+          "len": 3.008650302886963,
+          "rating": 0.0291888564825058,
+          "rouge": [
+            0.2782110273838043,
+            0.04049298167228699,
+            0.18408629298210144
+          ],
+          "pov": [
+            0.022080734372138977,
+            9.84029466053471e-05,
+            0.9777546525001526,
+            6.613932055188343e-05
+          ]
+        }
+      ],
+      "inp_rev": [
+        [
+          [
+            "Very different from what i'm used to which is a regular freezer ice maker.",
+            "It's kind of a process if you use all the time, which I do, you develop a system.",
+            "Makes ice fast.",
+            "Simple to operate."
+          ],
+          [
+            "Gave this as a gift to my daughter and son-in-law for their deck.",
+            "The have numerous pool parties and according to my daughter, this works great.",
+            "It prevents wet feet from going in the house to get ice.",
+            "It fits nicely on their deck and they seem to be enjoying it."
+          ],
+          [
+            "I thought this was exactly like my current ice maker but when it got here it wasn't.",
+            "Once seeing it I wondered what size it was going to make but was pleasantly surprised at the size of the large cubes.",
+            "It ended up being all it was advertised to be and I love it.",
+            "I would recommend it to all."
+          ],
+          [
+            "This thing works like a charm.",
+            "We use it in our bar at home and in our RV when traveling.",
+            "You just have to remember to empty it when not in use and keep it clean.",
+            "It does the job for parties!",
+            "Very fast and efficient."
+          ],
+          [
+            "Absolutely love it!!!",
+            "This is the 2nd one we have.",
+            "The 1st one lasted 8 years!!!",
+            "I love having ice made all the time.",
+            "I have it made by the refrigerator also but I love this machine better."
+          ],
+          [
+            "It worked as advertised although I didn't check to see if it make the actual 27 pounds per day.",
+            "I bought it for the camper and seemed to satisfy the demand for ice.",
+            "It sure beats paying $3 / bag at the camp store.",
+            "It won't take long to pay for it."
+          ],
+          [
+            "So far I love this device.",
+            "It cranks out ice in minutes.",
+            "Perfect to have for entertaining, we actually bought this as a back up for our unreliable built in ice maker in our fridge.",
+            "This has saved the day."
+          ],
+          [
+            "We have had this machine for 2 years.",
+            "It sits outside on our patio in Arizona.",
+            "It hits 115 degrees in the summer.",
+            "It has been cleaned one a month and has never stopped or had any kind of problems.",
+            "We just keep filling it with water and it keeps making ice 24 / 7 / 365."
+          ]
+        ]
+      ]
+    },
+    "B00455NTOU": {
+      "gold_summs": [
+        [
+          [
+            "This is a high quality easy to use tortilla maker.",
+            "This machine can make delicious tortillas every time.",
+            "The technique is easy to learn and can be mastered quickly so that every batch of tortillas made is fresh and delicious.",
+            "This machine is highly recommended for easily making homemade tortillas."
+          ],
+          [
+            "This is a very versatile machine and can make tortillas, crepes, pizzas, and similar items.",
+            "It can save a family money over time since the ingredients needed are very cheap versus store bought items.",
+            "It's easy and enjoyable to use.",
+            "Overall, a good item for someone looking to cook their own tortillas."
+          ],
+          [
+            "This tortilla maker requires an initial learning period, but after some experience produces perfect tortillas which taste much better than store-bought alternatives.",
+            "This machine is well worth the cost since over time money will be saved by not having to buy tortillas at the store.",
+            "This machine is highly recommended."
+          ]
+        ]
+      ],
+      "gen_summ": [
+        [
+          "This tortilla maker is easy to use, easy to clean, and makes great tortillas.",
+          "The only thing that would make it better is if it was made in the USA.",
+          "It would be nice if it were made in USA, but for the price, it's a great product."
+        ]
+      ],
+      "rouge": [
+        {
+          "rouge1": {
+            "p": 0.32653061224489793,
+            "r": 0.31239363669996306,
+            "f": 0.31925529807882747
+          },
+          "rouge2": {
+            "p": 0.0625,
+            "r": 0.060167451596023026,
+            "f": 0.06130303667858896
+          },
+          "rougeL": {
+            "p": 0.2108843537414966,
+            "r": 0.20171661117277098,
+            "f": 0.20616755793226382
+          }
+        }
+      ],
+      "true_props": [
+        {
+          "len": -0.2916666567325592,
+          "rating": 0.0,
+          "rouge": [
+            0.21766099333763123,
+            0.022306786850094795,
+            0.14911136031150818
+          ],
+          "pov": [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ]
+        }
+      ],
+      "pred_props": [
+        {
+          "len": 3.123305082321167,
+          "rating": 0.05849708616733551,
+          "rouge": [
+            0.27740904688835144,
+            0.040469150990247726,
+            0.18557442724704742
+          ],
+          "pov": [
+            0.022517934441566467,
+            0.00010639366519171745,
+            0.9772995710372925,
+            7.60203183745034e-05
+          ]
+        }
+      ],
+      "inp_rev": [
+        [
+          [
+            "It worked great for 6 months and suddenly stopped working.",
+            "CucinaPro customer care was pretty useful in replacing the defective one with brand new one within a week.",
+            "Thanks for a great customer service!!!",
+            "Hopefully, this one won't go bad in next 6 months."
+          ],
+          [
+            "The machine is very tricky.",
+            "It requires some trial and errors to make it work right.",
+            "I do not like to put oil in the dough; however, it appears to me that without oil it is impossible to make tortilla or chapatti.",
+            "It is useless for me."
+          ],
+          [
+            "I love this tortilla maker.",
+            "I hate to buy them from the store and they sit in my fridge.",
+            "This way I make them on the night we eat them.",
+            "Yes you should grill them after to get the toasted look."
+          ],
+          [
+            "Great machine!!!",
+            "I use it 3-4 times a week and perfect tortillas every time.",
+            "I also make pizza crusts, pancakes and crepes.",
+            "You have to get the recipe and technique right for tortillas but once you do it is easy.",
+            "Love having a freezer full of bean burritos for a quick lunch."
+          ],
+          [
+            "For this price, plus the pennys you'll spend on a 3-4 ingredient mix, this appliance pays for itself in about 2 months at our house.",
+            "Tortillas taste so fresh, no yucky preservatives, and you'll save tons not buying anymore bleached white over-priced tortillas at the grocery store."
+          ],
+          [
+            "I noticed that several reviews indicated that users were using this machine to both press and cook their tortillas.",
+            "This machine works in the same way as the 3000 dollar tortilla press except no automatic operation, that said a tortilla press needs to be hot to keep the tortilla from shrinking, however the tortilla needs to be finished cooking on a griddle for best results."
+          ],
+          [
+            "Fun and easy to use!",
+            "Took me one batch to get my technique worked out, but it was very simple, easy to follow directions.",
+            "Easy clean up too!",
+            "I would recommend this to anyone looking for an electric tortilla maker!"
+          ],
+          [
+            "I bought this for my boyfriend for making roti but it flattens too much and so you don't get the air pockets and flakiness that you want in roti.",
+            "Probably great and easy for tortillas but we just don't eat them."
+          ]
+        ]
+      ]
+    },
+    "B000N6MI7E": {
+      "gold_summs": [
+        [
+          [
+            "These hooks are decent for hanging up very small things.",
+            "Common household essentials such as oven mittens or kitchen towels are possible to hang up, but give a hassle with the hook sliding down.",
+            "The magnets attach to the hooks are too small to handle many things, but are pretty strong for it's size."
+          ],
+          [
+            "These magnets come up short when it comes to delivering promises.",
+            "The size of the magnets are fairly large but the magnets tend to be far too weak to actually hold anything up."
+          ],
+          [
+            "These attractive compact magnets look good but are not very functional.",
+            "Their small size makes the magnets very weak so they won't hold items like kitchen towels or even a heavier set of car keys.",
+            "The tiny magnets look good as refrigerator decorations but are not recommended to purchase for use as a strong magnet."
+          ]
+        ]
+      ],
+      "gen_summ": [
+        [
+          "These magnets are not as strong as they appear in the picture.",
+          "They are not strong enough to hold a lot of weight.",
+          "The magnets have a tendency to fall off after a few months of use.",
+          "Also, the magnet is not very strong and will not hold up to heavy use.",
+          "Would not recommend these to anyone."
+        ]
+      ],
+      "rouge": [
+        {
+          "rouge1": {
+            "p": 0.29310344827586204,
+            "r": 0.36327561327561325,
+            "f": 0.31971464854557535
+          },
+          "rouge2": {
+            "p": 0.05847953216374269,
+            "r": 0.07814253647586981,
+            "f": 0.06573045758439017
+          },
+          "rougeL": {
+            "p": 0.20114942528735633,
+            "r": 0.251010101010101,
+            "f": 0.2200281734515549
+          }
+        }
+      ],
+      "true_props": [
+        {
+          "len": -4.416666507720947,
+          "rating": 0.0,
+          "rouge": [
+            0.2577131390571594,
+            0.03646266832947731,
+            0.16973207890987396
+          ],
+          "pov": [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ]
+        }
+      ],
+      "pred_props": [
+        {
+          "len": 2.7901992797851562,
+          "rating": 0.09190495312213898,
+          "rouge": [
+            0.2649983763694763,
+            0.037997037172317505,
+            0.1785871982574463
+          ],
+          "pov": [
+            0.019035646691918373,
+            8.615493425168097e-05,
+            0.9808212518692017,
+            5.694162246072665e-05
+          ]
+        }
+      ],
+      "inp_rev": [
+        [
+          [
+            "These magnets are definitely not strong enough to be worthwhile, even for light objects.",
+            "Try the ones rated for 25 lbs... even though that's probably overkill for your needs, at least you'll know that they're adequate for any task."
+          ],
+          [
+            "These compact magnets sound too good to be true and do actually look nice in-person, but they don't hold the weight.",
+            "I wanted to hang hot mits on my fridge, but it took some finagling to get it to stay and I could only put one mit per hook."
+          ],
+          [
+            "I purchased these hooks specifically for the purpose of hanging potholders on the magnetic fridge.",
+            "They work but you have to gently hang them to prevent the hooks from sliding down.",
+            "They may, however, work better on other magnetized surfaces.",
+            "They are tiny and cute but I would not recommend using them as refrigerator magnets."
+          ],
+          [
+            "I purchased the set some years ago and loved how strong the magnets used on the hooks were.",
+            "I ordered more last week and discovered that the magnets are now 1 / 4 the size on the previous version.",
+            "The magnets are not at all as strong, and I am very disappointed."
+          ],
+          [
+            "The actual magnets are + / - 1 / 4 'in diameter, not nearly large enough to hang most things.",
+            "Did not work for my 6 keys plus a car fob.the hooks look good though.",
+            "That said, I am sending them back."
+          ],
+          [
+            "For the size of the hanger, it has a very low magnet.doesn't hold too much - not even a small kithen towel.",
+            "Might hold a small keychain... had to cannibalize 3 out of the 5 to make 2 hold some weight."
+          ],
+          [
+            "The magnets are very strong in terms of pulling them off the metal surface.unfortunately, they did not work well for my purpose: hanging a picture frame.",
+            "My frame is an 8x11 docuement with a simple frame, but it takes three magnets together to hold it up without sliding downwards."
+          ],
+          [
+            "These are tiny, and couldn't hold anything more than keys.",
+            "They have a diameter of about 3 / 4 of an inch.",
+            "I wanted to put aprons on them, but they are not big enough, nor strong enough.",
+            "They have a micro sized magnet on the back that is strong for its tiny appearance."
+          ]
+        ]
+      ]
+    },
+    "B00006IUVM": {
+      "gold_summs": [
+        [
+          [
+            "This Black & Decker steamer is highly recommended for steaming rice and vegetables.",
+            "It comes in a traditional design that has been popular for many years.",
+            "It is suitable for frequent use, has a large basket and is easy to clean."
+          ],
+          [
+            "This is a high quality and very versatile Black & Decker steamer.",
+            "It is a good size and has a great basket which allows it to steam more than one type of food simultaneously.",
+            "Highly recommended steamer for daily use."
+          ],
+          [
+            "This steamer is the same model Black and Decker has made for years, largely unchanged.",
+            "It is versatile and can be used to steam vegetables, make rice, and cook other things, and can steam multiple items at once.",
+            "It is highly recommended, and should last for years of daily use."
+          ]
+        ]
+      ],
+      "gen_summ": [
+        [
+          "This steamer is a great addition to any kitchen.",
+          "It is easy to use, easy to clean, and easy to store.",
+          "It cleans up easily in the dishwasher.",
+          "The only drawback is that it does not come with a steamer basket, but that's not a big deal."
+        ]
+      ],
+      "rouge": [
+        {
+          "rouge1": {
+            "p": 0.3055555555555555,
+            "r": 0.3515384615384616,
+            "f": 0.3261360970720577
+          },
+          "rouge2": {
+            "p": 0.07801418439716312,
+            "r": 0.08945899547403306,
+            "f": 0.08312243502051984
+          },
+          "rougeL": {
+            "p": 0.20138888888888887,
+            "r": 0.2267094017094017,
+            "f": 0.21266322621002423
+          }
+        }
+      ],
+      "true_props": [
+        {
+          "len": -7.083333492279053,
+          "rating": 0.0,
+          "rouge": [
+            0.2740563750267029,
+            0.0311195719987154,
+            0.17492464184761047
+          ],
+          "pov": [
+            0.0,
+            0.0,
+            1.0,
+            0.0
+          ]
+        }
+      ],
+      "pred_props": [
+        {
+          "len": 3.422701597213745,
+          "rating": 0.03473825007677078,
+          "rouge": [
+            0.2884961664676666,
+            0.04678986594080925,
+            0.19417619705200195
+          ],
+          "pov": [
+            0.02665834315121174,
+            0.00015409375191666186,
+            0.9730591773986816,
+            0.00012839787814300507
+          ]
+        }
+      ],
+      "inp_rev": [
+        [
+          [
+            "I had an almost identical steamer from black & Decker purchased around 1985. the lid on that one finally broke and i've been looking for one like it for 2 years.",
+            "Nice to see a good design hasn't been changed.",
+            "Love the steamer!"
+          ],
+          [
+            "I bought this one as a replacement for an old one I had.",
+            "We cook with it every day and love it!",
+            "It is the perfect size for our family.",
+            "Although the picture shows it with a clear lid, the one I received in the mail had a white lid."
+          ],
+          [
+            "I love this steamer.",
+            "Everyone in my family now has one because they are so great.",
+            "It is easy to use and easy to clean.",
+            "I love using it to make rice - no more cleaning up BOILED-OVER rice from the stove!",
+            "It also makes corn on the cob and boiled eggs hassle free."
+          ],
+          [
+            "This is my second one of these steamers.",
+            "I used the first one almost daily for over 5 years.",
+            "I love the versitility of this item.",
+            "Makes excellent steamed shrimp, the rice is perfect every time, vegetables taste great.",
+            "Just a useful item to have in the kitchen."
+          ],
+          [
+            "I love this steamer.",
+            "I use it to steam all kinds of vegetables and new potatoes.",
+            "I really like the larger basket and the screen where you can put herbs or spices to flavor what you are cooking.",
+            "I highly recommend it."
+          ],
+          [
+            "Sometimes I use the steamer for just one vegetable, or for rice, but it's really nice to have the separate basket when I want to steam two separate vegetables at the same time.",
+            "I've been very pleased with the steamer and have used it several times already.",
+            "The instruction book in helpful too.",
+            "Thank you."
+          ],
+          [
+            "Boiling broccoli always adds a ton of water and makes it super soggy, but this is the best way to cook broccoli (and other things of course...) I would definately recommend this product.",
+            "The only downfall is that it's pretty big and we have no couter space, so it makes it difficult to store it and make room for it."
+          ],
+          [
+            "This is our second B / D steamer.",
+            "The first served us well for years before the plexiglass bowl cracked and finally broke.",
+            "It was impossible to find a replacement in any major chain stores.",
+            "Lots of rice steamers but no small in size vegetable steamers.",
+            "Amazon came through again.",
+            "Thanks jeff!"
+          ]
+        ]
+      ]
+    }
+  },
+  "<GROUPING_FNAMES>": [
+    "category",
+    "group_id"
+  ]
+}
