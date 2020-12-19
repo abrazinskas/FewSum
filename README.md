@@ -3,7 +3,7 @@
 This repository contains the codebase along with accompanying artifacts of the [corresponding work](https://arxiv.org/pdf/2004.14884.pdf) published at EMNLP 2020, Dominican Republic.
 
 <p align="center">
-<img src="img/fewsum.png" width="300">
+<img src="img/fewsum.png" width="600">
 </p>
  
 ## Installation
@@ -24,7 +24,7 @@ Install required modules.
 pip install -r requirements.txt
 ```
 
-Add the root directory to the path.
+Add the root directory to the path if you want to execute scripts from the command line.
 
 ```
 export PYTHONPATH=root_path:$PYTHONPATH
@@ -51,7 +51,7 @@ More information about them can be found by reading the [corresponding readme fi
 ## Running the model
 
 In order to arrive to the final model, a number of steps need to be executed as described below. For each step, we provided checkpoints that can be used to generate
-summaries and also used as starting points for downstream steps.
+summaries and also used as starting points for downstream steps. 
 
 In general, model hyper-parameters can modified by altering corresponding classes in `fewsum/config/model_hp`. 
 In the same vein, one can modify the run configuration of each model in `fewsum/config/run/` classes.
@@ -62,7 +62,8 @@ components. Unless a custom setup is required, no modifications of this file is 
 ## Preparation
 
 We provide checkpoints for each step for Amazon, which can be downloaded by following links in each section below. 
-Checkpoints need to be placed to `artifacts/amazon/checkpoints/`
+Checkpoints need to be placed to `artifacts/amazon/checkpoints/`. 
+If you use a different path, specify it in a run configuration file, e.g., `fewsum/config/model_hp/unsup_run.py`.
 
 We also provide the word vocabulary, BPE vocabularies, and a true caser in `artifacts/amazon/misc`. These can be produced for custom datasets using scripts available in `fewsum/scripts`.
 
@@ -71,7 +72,7 @@ We also provide the word vocabulary, BPE vocabularies, and a true caser in `arti
 Here, we use the leave-one-out objective in order to pre-train the model on unannotated reviews using the command below; [checkpoint](https://abrazinskas.s3-eu-west-1.amazonaws.com/downloads/projects/fewsum/artifacts/amazon/checkpoints/unsupervised.tar).
 
 ```
-python workflow.py --regime=unsupervised
+python fewsum/workflow.py --regime=unsupervised
 ```
 
 ### Novelty reduction
@@ -79,7 +80,7 @@ python workflow.py --regime=unsupervised
 At this stage, we reduce the novelty by penalizing output probability assignments to words that do not appear in the input reviews; [checkpoint](https://abrazinskas.s3-eu-west-1.amazonaws.com/downloads/projects/fewsum/artifacts/amazon/checkpoints/novelty_reduction.tar). 
 
 ```
-python workflow.py --regime=novelty_reduction
+python fewsum/workflow.py --regime=novelty_reduction
 ```
 
 ### Plug-in network initialization
@@ -87,7 +88,7 @@ python workflow.py --regime=novelty_reduction
 Here, the plug-in network is added that is trained to predict property values for reviews (derived by the oracle) based on the leave-one-out setting; [checkpoint](https://abrazinskas.s3-eu-west-1.amazonaws.com/downloads/projects/fewsum/artifacts/amazon/checkpoints/plugin_init.tar).
 
 ```
-python workflow.py --regime=plugin_init
+python fewsum/workflow.py --regime=plugin_init
 ```
 
 ### Plug-in network tuning
@@ -95,14 +96,14 @@ python workflow.py --regime=plugin_init
 In this phase, we utilize human-written abstractive summaries and tune the plug-in network to predict their property values that are derived by the oracle; [checkpoint](https://abrazinskas.s3-eu-west-1.amazonaws.com/downloads/projects/fewsum/artifacts/amazon/checkpoints/plugin_tuning.tar).
 
 ```
-python workflow.py --regime=plugin_tuning
+python fewsum/workflow.py --regime=plugin_tuning
 ``` 
 
 ### Joint-tuning 
 This is the final phase, where we fine-tune both the plug-in network and the attention mechanism over the encoder states; [checkpoint](https://abrazinskas.s3-eu-west-1.amazonaws.com/downloads/projects/fewsum/artifacts/amazon/checkpoints/joint_tuning.tar).
 
 ```
-python workflow.py --regime=joint_tuning
+python fewsum/workflow.py --regime=joint_tuning
 ```
 
 
@@ -110,7 +111,7 @@ python workflow.py --regime=joint_tuning
 In order to generate summaries at any stage, please replace the `REGIME` token in the command below.
 
 ```
-python workflow.py --regime=REGIME --inference
+python fewsum/workflow.py --regime=REGIME --inference
 ```
 
 Already generated summaries by the final model are also [available](../artifacts/amazon/gen_summs/).
