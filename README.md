@@ -36,7 +36,7 @@ export PYTHONPATH=root_path:$PYTHONPATH
 ### Training data
 
 Data pre-processing pipeline along with instructions is available from the [previous project](https://github.com/abrazinskas/Copycat-abstractive-opinion-summarizer/tree/master/preprocessing). 
-Further, reviews needs to be enriched with ROUGE scores (coverage property) in the leave-one-out fashion using `scripts/postprocess_data.py`. 
+Further, reviews needs to be enriched with ROUGE scores (coverage property) in the leave-one-out fashion using `fewsum/scripts/postprocess_data.py`. 
 This is done to avoid online ROUGE computations that are time consuming.
 
 We also provide the final pre-processed dataset versions, both for [Amazon](https://abrazinskas.s3-eu-west-1.amazonaws.com/downloads/projects/fewsum/artifacts/amazon/reviews.zip) and [Yelp](https://abrazinskas.s3-eu-west-1.amazonaws.com/downloads/projects/fewsum/artifacts/yelp/reviews.zip).
@@ -46,7 +46,7 @@ Unzip them to `artifacts/[yelp or amazon]/`. These datasets can be directly used
 ### Annotated summaries
 
 For the purpose of fine-tuning and evaluation, we produced [Yelp](artifacts/yelp/gold_summs) and [Amazon](artifacts/amazon/gold_summs) annotated datasets.
-More information about them can be found by reading the [corresponding readme file](artifacts/gold_summs.md).
+More information found in the [corresponding readme file](artifacts/gold_summs.md).
 
 ## Running the model
 
@@ -114,7 +114,7 @@ In order to generate summaries at any stage, please replace the `REGIME` token i
 python fewsum/workflow.py --regime=REGIME --inference
 ```
 
-Already generated summaries by the final model are also [available](../artifacts/amazon/gen_summs/).
+Already generated summaries by the final model are also [available](/artifacts/amazon/gen_summs/).
 
 ## Citation
 ```
