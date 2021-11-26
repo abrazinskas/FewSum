@@ -2,7 +2,7 @@
 
 This repository contains a module for **parallel** and **real-time data processing** for machine learning (ML) purposes. It provides the backbone to perform data transformations to train and evaluate ML models. A data pipeline can be understood as a sequence of computational steps that are applied to data-chunks that are read progressively (opposed to reading all data to the main memory at once), as shown below. The final output of the data pipeline are data-chunks (batches) in a desired format, which will depend on a model at hand.
 
-<img src="img/mltoolkit.mldp.png"/>
+<img src="img/mldp.png"/>
 
 As opposed to a common meaning of data pipeline, the module focuses on providing data-chunks in real-time, as fast as possible, assuming that a data processing procedure might change over the course of experiments series.
 
